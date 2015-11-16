@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: Pine
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Jennifer Hail
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Pine is a design studio for the everlasting, located in Louisville, Kentucky.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: design,graphic design,web design,web development,print design,design studio,advertising,photography,art direction,branding,identity,creative studio,Louisville,Kentucky
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2015-(date: Year) (link: http://bypine.co text: Pine)

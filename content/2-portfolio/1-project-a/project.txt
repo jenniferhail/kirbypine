@@ -6,6 +6,10 @@ Year: 2014
 
 ----
 
+Type: Identity
+
+----
+
 Tags: outdoor
 
 ----
