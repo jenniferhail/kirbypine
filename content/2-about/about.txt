@@ -1,0 +1,79 @@
+Title: About
+
+----
+
+Firsttitle: Philosophy
+
+----
+
+Firsttext: 
+
+Fresh, early morning air speckled with hints of the sunrise. A hot cup of coffee, its steam rising with the slowly awakening fog. Dew glistening on the buds of an evergreen tree, as the daily paper lands with a soft thud on the porch steps.
+
+These moments and feelings transport us to a life lived with purpose, filled with simple joys and treasured details; transforming a cluttered world into a breath of fresh air. As we like to say, less is always more.
+
+Our philosophy is to design meaningful and memorable experiences by questioning what will add value and choosing only the essential.
+
+----
+
+Secondtitle: Services
+
+----
+
+Secondtext: 
+
+(columns...) 
+
+###Graphic Design
+Identity
+Brand Strategy
+Print Collateral
+Website Design
+Front-End Development
+
+++++
+
+###Art Direction
+Styled Shoots
+Interiors
+Content Development
+Marketing Strategy
+Social Media
+
+++++
+
+###Calligraphy
+Addressing
+Custom Ink Colors
+Handmade Suites
+Banners & Signage
+
+(...columns)
+
+----
+
+Thirdtitle: Founder & Designer
+
+----
+
+Thirdtext: 
+
+##JENNIFER HAIL
+
+Jennifer is a graphic designer who works to create minimal, beautiful solutions for passionate creatives and makers. Her focus is to create a breath of fresh air in a world filled with clutter, through a simplified process that eliminates the overwhelm. Jennifer's knowledge of front-end web development and natural inclination to film photography allows her to offer a holistic approach to the needs of her clients.
+
+She is inspired by slow living and purposeful past times, often dabbling in a selection of hobbies including calligraphy, coffee-making, and curating. Jennifer believes that less is always more, and encourages everyone to never stop learning. When she isn't on the computer designing or reading articles, you can find her entertaining her fluffy, white cat Theodore and spending time with her fiancé and family.
+
+----
+
+Fourthtitle: Marketing & Strategy
+
+----
+
+Fourthtext: 
+
+##KASANDRA MITCHELL
+
+KaSandra is a talented content creator who works to build mutually beneficial and trusting relationships between organizations and their audiences through media and strategic communications.
+
+She is an avid adventurer—recently spending four months living and working in a castle in the English countryside—as well as a passionate health and fitness advocate, teaching workout classes and perfecting her headstand in her free time. Kassie is forging her own path and she is excited to help you plan and map out your own.

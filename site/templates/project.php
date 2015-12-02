@@ -2,6 +2,14 @@
 
   <main class="main" role="main">
 
+    <div class="images">
+      <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
+      <figure>
+        <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
+      </figure>
+      <?php endforeach ?>
+    </div>
+
     <h1><?php echo $page->title()->html() ?></h1>
 
     <ul class="meta cf">
@@ -11,13 +19,7 @@
 
     <div class="text">
       <?php echo $page->text()->kirbytext() ?>
-
-      <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
-      <figure>
-        <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
-      </figure>
-      <?php endforeach ?>
-    </div>
+    </div>      
 
     <nav class="nextprev cf" role="navigation">
       <?php if($prev = $page->prevVisible()): ?>

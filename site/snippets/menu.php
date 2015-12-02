@@ -11,12 +11,19 @@
         <li>
           <a href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
         </li>
-        <?php endforeach ?>
+        <?php endforeach ?>        
       </ul>
       <?php endif ?>
 
     </li>
     <?php endforeach ?>
+
+    <?php if($user = $site->user()): ?>
+    <li>
+      <a href="<?php echo url('logout') ?>">Logout</a>
+    </li>
+    <?php endif ?>
+    
   </ul>
 
 </nav>

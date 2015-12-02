@@ -1,0 +1,33 @@
+Title: Thank You
+
+----
+
+Firsttitle: Thank You
+
+----
+
+Firsttext: Thank you for contacting us! We will be in touch soon.
+
+----
+
+Secondtitle: 
+
+----
+
+Secondtext: 
+
+----
+
+Thirdtitle: 
+
+----
+
+Thirdtext: 
+
+----
+
+Fourthtitle: 
+
+----
+
+Fourthtext: 

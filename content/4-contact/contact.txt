@@ -1,0 +1,69 @@
+Title: Contact
+
+----
+
+Firsttitle: Thank You
+
+----
+
+Firsttext: We’re so glad that you’re interested in working with Pine! We will reply to every message within two–three days.
+
+----
+
+Secondtitle: The Details
+
+----
+
+Secondtext: 
+
+(columns...)
+
+Pine, LLC
+Louisville, Kentucky
+
+++++
+
+(email: hello@bypine.co text: hello@bypine.co)
++1 270 304 7616
+
+++++
+
+Next opening
+Now accepting work for December
+
+(...columns)
+
+----
+
+Thirdtitle: Pricing & FAQ
+
+----
+
+Thirdtext: 
+
+If you’re considering working with Pine, it’s likely that you have a few questions. We know your time is valuable, so we’ve compiled a list of the most important information. Please let us know if you have any other questions we can answer.
+
+*Can I see your pricing sheet?*
+Yes, of course! Because each client’s needs are different, we prefer to learn more about your project in order to create a detailed quote. However, our pricing sheets reflects minimum costs for all of the services we offer. If your needs aren’t included on the list, please inquire. We might be able to help, or help you find a trusted colleague who can. Click here to download our pricing.
+
+*How long does your process take?*
+We prefer a minimum of three weeks to complete any project. Please keep in mind that printing usually requires an additional two weeks.
+
+*What methods of payment do you accept?*
+Payment by check or Square Cash are preferred, however we can also accommodate online payment if necessary.
+
+----
+
+Formtitle: Send a Message
+
+----
+
+Formdescription: If inquiring about working with Pine, please include as much detail as you can about your project, timeline, budget, and needs, so we can thoughtfully reply.
+
+----
+
+Newslettertitle: Behind the Pines
+
+----
+
+Newsletterdescription: Written exclusively for you, our letter is all about sharing details behind the scenes, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.

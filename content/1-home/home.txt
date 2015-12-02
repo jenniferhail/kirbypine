@@ -1,0 +1,33 @@
+Title: Home
+
+----
+
+Firsttitle: Welcome
+
+----
+
+Firsttext: Welcome to Pine, an independent studio focused on forming ideas into timeless, beautiful design. Founded by Jennifer Hail, Pine exists to create design for the everlasting. In a world full of clutter, we aim to create a breath of fresh air.
+
+----
+
+Secondtitle: Let's Work Together
+
+----
+
+Secondtext: 
+
+Where natural, minimal aesthetics meld perfectly with hard-working and passionate people. We enjoy refining your story to its essential narrative and portraying it authentically. Capturing a feeling and creating a brand experience to match.
+
+*If this resonates with you, send us a message and breathe easier.* Pine exists to help you find calm in the storm of decision making. We are passionate about designing honestly and simply, so you can focus on what you love to do. We’re excited to meet you.
+
+----
+
+Thirdtitle: Behind the Pines
+
+----
+
+Thirdtext: Written exclusively for you, our letter is centered on sharing behind the scenes details, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.
+
+----
+
+Instagram: bypine

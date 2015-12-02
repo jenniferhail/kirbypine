@@ -1,0 +1,37 @@
+/* BASE VARIABLES
+ *******************/
+
+/* Sizes */
+$max-width: 1800px;
+$space: 65%;
+$footerheight: 60px;
+
+/* Palette */
+$light-grey: #f1f1f1;
+$grey-hover: rgba(85,85,85,0.6);
+$dark-grey: #4d4d4d;
+
+/* Colors */
+$text: #555;
+$links: $text;
+$hover: $grey-hover;
+
+$bg: #FFF;
+$header: $dark-grey;
+
+/* Fonts */
+$caslon: "adobe-garamond-pro",serif; /* Weights: regular & italic */
+$open-sans: "open-sans",sans-serif; /* Weights: light, light italic, & semi bold */
+
+$main: $open-sans;
+$italic: $caslon;
+
+/* Borders */
+$border: 1px solid #b2b2b2;
+
+/* Breakpoints */
+$cap: 1920px;
+$m: 850px;
+$s: 740px;
+/* 680 */
+$xs: 500px;

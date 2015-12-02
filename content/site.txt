@@ -14,4 +14,13 @@ Keywords: design,graphic design,web design,web development,print design,design s
 
 ----
 
-Copyright: © 2015-(date: Year) (link: http://bypine.co text: Pine)
+Footertitle: Endnotes
+
+----
+
+Footer: 
+
+-  (link: mailto:hello@bypine.co text: hello@bypine.co)
+- +1 270 304 7616
+- Privacy Policy
+- © 2015 Pine, LLC
