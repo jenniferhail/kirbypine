@@ -1,0 +1,46 @@
+.access {
+	margin: 0;
+	// div {
+	// 	overflow: hidden;
+	// 	position: absolute;
+	// 	left: -9em;
+	// 	top: 5em;
+	// }
+	ul {
+		clear: left;
+		padding-left: 0;
+		margin: 0 !important;
+		list-style: none;
+		text-align: right;
+		&:after {
+		 	content: '—';
+		 	color: $text;
+		}
+		li {
+			position: relative;
+			vertical-align: middle;
+			a {
+				display: block;
+				// padding: 3px 0 3px 10px;
+				// margin: 2px 0;
+				text-decoration: none;
+				cursor: pointer;
+				// uncomment if you want dividers
+				// &:after {
+				// 	content: '/';
+				// 	color: $text;
+				// }
+				&:hover,
+				&:focus {
+					color: $hover;
+				}
+			}
+			// &:last-of-type a:after {
+			// 	content: none;
+			// }
+		}
+		
+		
+	}
+	
+}

@@ -1,0 +1,111 @@
+#site-header {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999999 !important;
+	margin: 0px;
+	padding: 1em 0 0;
+	text-align: center;
+	background: $header;
+	opacity: 0.95;
+	.logo img {
+		max-width: 70px;
+		height: auto;
+	}
+}
+
+#site-header {
+	opacity: 0;
+}
+
+header {
+	padding-top: 4em;
+	position: relative;
+	z-index: 9999999;
+}
+
+.left {
+	opacity: 0;
+	width: 100px;
+	float: left;
+	left: 6%;
+	@include clearfix; 
+	.home-logo {
+		float: right;
+		padding-bottom: 1.5em;
+		.logo img {
+			max-width: 100px;
+			height: auto;
+		}	
+	}
+	.access {
+		clear: right;
+	}
+}
+.featured-image {
+	opacity: 0;
+	margin: 0 auto 4em;
+	max-width: 65%;
+	img {
+		opacity: 0.9;
+	}
+}	
+.caption-left {
+	display: none;
+	// text-align: right;
+	// top: 9.5em;
+	// left: -5em;
+}
+.caption-right {
+	text-align: right;
+	width: 450px;
+	position: absolute;
+	bottom: 2.5em;
+	right: -5em;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 24px;
+	padding: 1em 1.5em 1em 1em;
+	background: rgba(255,255,255,0.8);
+	border-right: 1px solid #bbbbbb;
+}
+@media screen and (max-width: $m) {
+	header {
+		padding: 0;
+	}
+	.left {
+		width: 90%;
+		margin: 0 auto;
+		float: none;
+		left: auto;
+		padding: 1.5em 0;
+		@include clearfix; 
+		.home-logo {
+			width: 50%;
+			float: left;
+			.logo img {
+				max-width: 100px;
+				height: auto;
+			}	
+		}
+		.access {
+			width: 50%;
+			float: right;
+		}
+	}
+	.featured-image {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.caption-right {
+		text-align: center;
+		width: 100%;
+		padding: 2em 1.5em 0;
+		position: relative;
+		bottom: auto;
+		right: auto;
+		border-right: none;
+		background: none;
+	}
+}
