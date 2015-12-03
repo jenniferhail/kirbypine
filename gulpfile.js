@@ -9,16 +9,17 @@ var gulp = require('gulp'),
 
 var imgSrc = 'assets/images/originals/*';
 var imgDest = 'assets/images';
+var cssDest = 'assets/css';
 
 gulp.task('styles', function() {
   return sass('assets/scss/style.scss') 
       .on('error', function (err) {
           console.error('Error!', err.message);
       })
-      .pipe(gulp.dest('assets/css'))
+      .pipe(gulp.dest(cssDest))
       .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
       .pipe(minifycss())
-      .pipe(gulp.dest('assets/css'));
+      .pipe(gulp.dest(cssDest));
 });
 
 gulp.task('images', function() {
