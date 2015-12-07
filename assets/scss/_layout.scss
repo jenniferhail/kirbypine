@@ -5,6 +5,7 @@ body {
 }
 .wrap {
 	@include container();
+	width: 90%;
 }
 header,
 main,
@@ -19,7 +20,7 @@ footer {
 }
 .left {
 	text-align: right;
-	@include span(3);
+	@include span(2);
 }
 .right {
 	@include span(9 last);
@@ -27,4 +28,7 @@ footer {
 
 .one-third {
 	@include span(4 of 12);
+}
+.one-third-last {
+	@include span(4 of 12 last);
 }

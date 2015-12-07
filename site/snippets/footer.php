@@ -1,7 +1,7 @@
   <footer class="footer cf" role="contentinfo">
 
     <div class="copyright left">
-      <?php echo $site->footerTitle()->html() ?>
+      <h1><?php echo $site->footerTitle()->html() ?></h1>
     </div>
 
     <div class="colophon right">

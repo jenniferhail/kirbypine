@@ -22,5 +22,5 @@ Footer:
 
 -  (link: mailto:hello@bypine.co text: hello@bypine.co)
 - +1 270 304 7616
-- Privacy Policy
+- (link: /privacy-policy text: Privacy Policy)
 - © 2015 Pine, LLC

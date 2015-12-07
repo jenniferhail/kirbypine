@@ -41,7 +41,7 @@
       </div>
     </section>
 
-    <section>
+    <section class="instagram">
       <div class="left">
         <h1>Instagram</h1>    
       </div>

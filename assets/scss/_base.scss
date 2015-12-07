@@ -20,8 +20,8 @@ $bg: #FFF;
 $header: $dark-grey;
 
 /* Fonts */
-$serif: "adobe-garamond-pro",serif; /* Weights: regular & italic */
-$sans-serif: "open-sans",sans-serif; /* Weights: light, light italic, & semi bold */
+$serif: "Adobe Garamond Pro",serif; /* Weights: regular & italic */
+$sans-serif: "Open Sans",sans-serif; /* Weights: light, light italic, & semi bold */
 
 $main: $sans-serif;
 $italic: $serif;
@@ -29,12 +29,6 @@ $italic: $serif;
 /* Borders */
 $border: 1px solid #b2b2b2;
 
-/* Susy — Mobile First */
-// $total-columns	: 7;
-// $column-width	: 4.25em;
-// $gutter-width	: 1em;
-// $grid-padding	: $gutter-width;
-// $break 			: 12;
 
 $susy: (
 	columns: 12,

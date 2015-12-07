@@ -5,8 +5,10 @@
 /* See _mixins.scss for more on this method for handling HTML5 elements */
 #{$all-text-inputs}, 
 textarea {
+	width: 100%;
 	border-bottom: $border;
 	padding: 6px 10px;
+	line-height: 28px;
 	text-align: center;
 	-webkit-appearance: none;
 }
@@ -16,6 +18,10 @@ textarea:focus {
 }
 input[type=submit] {
 	-webkit-appearance: none;
+	width: 100%;
+	line-height: 39px;
+	border: $border;
+	background-color: transparent;
 }
 
 /* Placeholders */

@@ -22,7 +22,11 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: $italic;
 }
 h1 {
-	
+	font-family: $main;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2px;
 }
 h2 {
 	
@@ -48,6 +52,17 @@ hr {
 	border: 0;
 	height: 1px;
 	margin-bottom: 1.5em;
+}
+
+/* Forms */
+#{$all-text-inputs}, 
+textarea,
+input[type=submit] {
+	font-family: $italic;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
 }
 
 /* Text elements */
