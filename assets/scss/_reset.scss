@@ -1,3 +1,4 @@
+@charset "utf-8";
 /* DEFAULT & RESET CSS*/
 
 /* Table of Contents
@@ -19,6 +20,8 @@
   (C) WordPress image styles */
 
 html {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 *, *:before, *:after {
@@ -54,6 +57,7 @@ div {
 }
 
 img {
+  max-width: 100%;
   &.alignleft {
     margin-right: 1em;
     margin-bottom: 1.8em;

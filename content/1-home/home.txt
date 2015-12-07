@@ -22,12 +22,12 @@ Where natural, minimal aesthetics meld perfectly with hard-working and passionat
 
 ----
 
-Thirdtitle: Behind the Pines
-
-----
-
-Thirdtext: Written exclusively for you, our letter is centered on sharing behind the scenes details, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.
-
-----
-
 Instagram: bypine
+
+----
+
+Newslettertitle: Behind the Pines
+
+----
+
+Newsletterdescription: Written exclusively for you, our letter is centered on sharing behind the scenes details, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.

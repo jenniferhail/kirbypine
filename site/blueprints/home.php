@@ -18,12 +18,6 @@ fields:
   secondText:
     label: Text
     type:  textarea
-  thirdTitle:
-    label: Section Title
-    type:  text
-  thirdText:
-    label: Text
-    type:  textarea
   newsletterTitle:
     label: Newsletter Title
     type: text

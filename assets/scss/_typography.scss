@@ -7,6 +7,15 @@ body, input, textarea {
 	letter-spacing: 0.25px;
 }
 
+/* Navigation */
+nav a {
+	font-family: $italic;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+}
+
 /* Headings */
 h1,h2,h3,h4,h5,h6 {
 	clear: both;

@@ -6,11 +6,11 @@
 	
 <div class="mc-field-group">
 	<label for="mce-FNAME">Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input type="text" value="name" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" value="email" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

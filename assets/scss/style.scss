@@ -1,40 +1,42 @@
-// /* FONTS
-// -------------------------- */
+/* FONTS
+-------------------------- */
 // // Uncomment/use this file for self-hosted web fonts
 // @import "fonts/all";
 
 /* RESET & BASE
 ------------------ */
 @import "reset";
+@import "susy";
 @import "mixins";
 @import "base";
 
-// /* =LAYOUTS
-// ------------------ */
+/* =LAYOUTS
+------------------ */
 @import "layout";
 @import "header";
 @import "nav";
+@import "main";
 @import "footer";
 
-// /* =CONTENT
-// ------------------ */
+/* =CONTENT
+------------------ */
 @import "typography";
 @import "forms";
 
-// /* =COMPONENTS
-// ------------------ */
+/* =COMPONENTS
+------------------ */
 // /* Includes password protection for pages and posts, 404 page */
 // @import "components";
 
 
-// /* =PROJECT PAGES SPECIFIC
-// ------------------ */
+/* =PROJECT PAGES SPECIFIC
+------------------ */
 // @import "content";
 // @import "pages/all";
 // @import "pages/home";
 
-// /* =BLOG SPECIFIC
-// ------------------ */
+/* =BLOG SPECIFIC
+------------------ */
 // @import "blog/paging";
 // @import "blog/widgets";
 // @import "blog/comments";
