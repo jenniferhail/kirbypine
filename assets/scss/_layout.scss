@@ -24,3 +24,7 @@ footer {
 .right {
 	@include span(9 last);
 }
+
+.one-third {
+	@include span(4 of 12);
+}
