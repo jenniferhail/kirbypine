@@ -2,12 +2,12 @@
 
   <main class="main" role="main">
 
-<!--     <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div> -->
-
-    <?php snippet('projects') ?>
+    <section>
+      <div class="left">&nbsp;</div>
+      <div class="right">
+		<?php snippet('projects') ?>
+      </div>
+    </section>
 
   </main>
 

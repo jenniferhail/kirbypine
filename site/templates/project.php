@@ -2,33 +2,61 @@
 
   <main class="main" role="main">
 
-    <div class="images">
-      <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
-      <figure>
-        <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
-      </figure>
-      <?php endforeach ?>
-    </div>
+    <section>
+      <div class="left">&nbsp;</div>
+      <div class="right">
+        <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
+        <figure>
+          <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
+        </figure>
+        <?php endforeach ?>
+      </div>
+    </section>
 
-    <h1><?php echo $page->title()->html() ?></h1>
+    <section>
+      <div class="left">
+        <h1>Project</h1>
+      </div>
+      <div class="right">
+        <?php echo $page->Title()->html() ?><br>
+        <?php echo $page->Tags() ?>
+        <?php echo $page->Year()->kirbytext() ?>
+      </div>
+    </section>   
 
-    <ul class="meta cf">
-      <li><b>Year:</b> <time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('Y', 'year') ?></time></li>
-      <li><b>Tags:</b> <?php echo $page->tags() ?></li>
-    </ul>
+    <section>
+      <div class="left">
+        <h1>Details</h1>
+      </div>
+      <div class="right">
+        <?php echo $page->Text()->kirbytext() ?>
+      </div>
+    </section>
 
-    <div class="text">
-      <?php echo $page->text()->kirbytext() ?>
-    </div>      
+    <section>
+      <div class="left">
+        <h1>Credits</h1>
+      </div>
+      <div class="right">
+        <?php echo $page->Credits()->kirbytext() ?>
+      </div>
+    </section>
 
-    <nav class="nextprev cf" role="navigation">
-      <?php if($prev = $page->prevVisible()): ?>
-      <a class="prev" href="<?php echo $prev->url() ?>">&larr; previous</a>
-      <?php endif ?>
-      <?php if($next = $page->nextVisible()): ?>
-      <a class="next" href="<?php echo $next->url() ?>">next &rarr;</a>
-      <?php endif ?>
-    </nav>
+    <section>
+      <div class="left">
+        &nbsp;
+      </div>
+      <div class="right">
+        <nav class="nextprev cf" role="navigation">
+          <?php if($prev = $page->prevVisible()): ?>
+          <a class="prev" href="<?php echo $prev->url() ?>">&larr; previous</a>
+          <?php endif ?>
+          <?php if($next = $page->nextVisible()): ?>
+          <a class="next" href="<?php echo $next->url() ?>">next &rarr;</a>
+          <?php endif ?>
+        </nav>
+      </div>
+    </section>
 
   </main>
 
