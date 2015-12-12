@@ -2,27 +2,55 @@ Title: Home
 
 ----
 
-Firsttitle: Welcome
+Tagline: Design for authentic souls who yearn for a<br>breath of fresh air in a world full of clutter.
 
 ----
 
-Firsttext: Welcome to Pine, an independent studio focused on forming ideas into timeless, beautiful design. Founded by Jennifer Hail, Pine exists to create design for the everlasting. In a world full of clutter, we aim to create a breath of fresh air.
+Introtitle: Philosophy
 
 ----
 
-Secondtitle: Let's Work Together
+Intro: 
+
+At the heart of our studio lies the desire to bring the passionate ideas and dreams of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, and authentic friendship. 
+
+We long to partner with people who value the short life we’ve been given by spending it pursuing meaningful, fulfilling work. They live adventurously, and love fiercely. They choose less when the world yells more. They choose to be present while others view life through a screen.
 
 ----
 
-Secondtext: 
-
-Where natural, minimal aesthetics meld perfectly with hard-working and passionate people. We enjoy refining your story to its essential narrative and portraying it authentically. Capturing a feeling and creating a brand experience to match.
-
-*If this resonates with you, send us a message and breathe easier.* Pine exists to help you find calm in the storm of decision making. We are passionate about designing honestly and simply, so you can focus on what you love to do. We’re excited to meet you.
+Servicestitle: Services
 
 ----
 
-Instagram: bypine
+Services: 
+
+As a design studio, we prefer to work with businesses who desire a full range of services.
+
+(columns...) 
+
+###Design
+Identity
+Brand Strategy
+Print Collateral
+Website Design
+Front-End Development
+
+++++
+
+###Art Direction
+Styled Shoots
+Interiors
+Content Development
+Social Media
+
+++++
+
+###Marketing
+Note
+Note
+Note
+
+(...columns)
 
 ----
 

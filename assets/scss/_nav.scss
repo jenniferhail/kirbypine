@@ -1,12 +1,7 @@
 nav {
-	padding-top: 28px;
 	ul {
 		list-style: none;
 		margin: 0;
-		&:after {
-		 	content: '—';
-		 	color: $text;
-		}
 		li {
 			position: relative;
 			vertical-align: middle;
@@ -16,15 +11,39 @@ nav {
 				display: block;
 				text-decoration: none;
 				cursor: pointer;
-
+				color: $bg;
 				&:hover,
 				&:focus {
 					color: $hover;
 				}
 			}
 		}
-		
-		
+		&:after {
+		 	content: '';
+		 	display: inline-block;
+		 	height: 1px;
+		 	width: 25px;
+		 	margin-bottom: 3px;
+		 	background-color: $bg;
+		}			
 	}
-	
+	ul#hidden-menu {
+		display: none;
+		transition: opacity 0.5s ease-in-out;
+		-webkit-transition: opacity 0.5s ease-in-out;
+		opacity: 0;
+		&:after {
+			content: '';
+			display: none;
+		}
+	}
+}
+
+nav ul:hover {
+	ul#hidden-menu {
+		display: inline-block;
+		transition: opacity 0.5s ease-in-out;
+		-webkit-transition: opacity 0.5s ease-in-out;
+		opacity: 1;
+	}
 }

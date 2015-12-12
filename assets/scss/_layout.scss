@@ -1,11 +1,14 @@
 body {
-	background: $bg;
+	background: $dark-grey;
 	margin: 0;
 	padding: 0;
 }
+main, footer {
+	background: $bg;
+}
 .wrap {
 	@include container();
-	width: 90%;
+	width: 100%;
 }
 header,
 main,
@@ -13,16 +16,19 @@ section,
 footer {
 	@include span(12);
 }
-header,
-section,
-footer {
-	margin: 2em 0;
+header {
+	padding: 2em;
 }
-.left {
-	text-align: right;
-	@include span(2);
+section {
+	padding: 6em;
 }
-.right {
+section.banner {
+	padding: 0;
+}
+.heading {
+	@include span(3);
+}
+.paragraph {
 	@include span(9 last);
 }
 

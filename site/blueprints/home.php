@@ -6,24 +6,24 @@ fields:
   title:
     label: Title
     type:  text
-  firstTitle:
-    label: Section Title
+  tagline:
+    label: Tagline
     type: text  
-  firstText:
-    label: Text
-    type:  textarea
-  secondTitle:
-    label: Section Title
+  introTitle:
+    label: Intro Title
     type:  text
-  secondText:
-    label: Text
+  intro:
+    label: Intro
     type:  textarea
+  servicesTitle:
+    label: Services Title
+    type:  text
+  services:
+    label: Services
+    type: textarea
   newsletterTitle:
-    label: Newsletter Title
-    type: text
+    label: Newsletter
+    type:  text
   newsletterDescription:
     label: Description
     type: textarea    
-  instagram:
-    label: Instagram Account
-    type: text

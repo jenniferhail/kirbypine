@@ -1,18 +1,20 @@
-<nav role="navigation" class="right">
-
-  <ul class="menu cf">
-    <?php foreach($pages->visible() as $p): ?>
-    <li>
-      <a <?php e($p->isOpen(), ' class="active"') ?> href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
-    </li>
-    <?php endforeach ?>
-
-    <?php if($user = $site->user()): ?>
-    <li>
-      <a href="<?php echo url('logout') ?>">Logout</a>
-    </li>
+<nav role="navigation">
+  <ul>
+    <?php if($page->isOpen()): ?>
+      <li>
+        <a href="<?php echo $page->url() ?>">
+          <?php echo html($page->title()) ?>
+        </a>
+      </li>
     <?php endif ?>
-    
+    <ul id="hidden-menu">
+      <?php foreach($pages->visible() as $p): ?>
+        <li <?php e($p->isOpen(), ' class="hide"') ?>>
+          <a href="<?php echo $p->url() ?>">
+            <?php echo html($p->title()) ?>
+          </a>
+        </li>
+      <?php endforeach ?>
+    </ul>
   </ul>
-
 </nav>
