@@ -8,6 +8,6 @@ fields:
     label: Title
     type:  text
   text:
-    label: Text
+    label: Content
     type:  textarea
     size:  large

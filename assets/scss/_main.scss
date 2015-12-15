@@ -1,43 +1,13 @@
-/* Home */
-
-.banner-home {
-	padding: 2em 0;
-	background-image: url('../../content/1-home/pine-home-banner.jpg');
-	background-size: cover;
-	height: 500px;
-	.v-center {
-		text-align: center;
-		color: $bg;
-		width: 50%;
-		margin: 0 auto;
-		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
+/* Blog */
+article:hover {
+	time {
+		display: block;
 	}
-	a.logo {
-		img { 
-			padding-bottom: 2em;
-		}
-		&:after {
-			content: '';
-		    display: block;
-		    background-color: white;
-		    height: 1px;
-		    width: 200px;
-		    margin: 0 auto;
-		}
-	}
-	.tagline {
-		padding-top: 2em;
-		p {
-			font-family: $italic;
-			font-style: italic;
-			font-size: 30px;
-			line-height: 36px;
-			letter-spacing: 0.25px;
-			-webkit-font-smoothing: antialiased;
-		}
-	}
+}
+.readmore,
+.back {
+	text-align: right;
+	display: block;
 }
 
 ul.instagram-feed {

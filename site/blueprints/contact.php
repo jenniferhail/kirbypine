@@ -6,34 +6,19 @@ files: true
 fields:
   title:
     label: Page Title
-    type:  text
-  firstTitle:
-    label: Section Title
-    type: text  
+    type:  text  
   firstText:
-    label: Text
+    label: Section
     type:  textarea
-  secondTitle:
-    label: Section Title
-    type:  text
   secondText:
-    label: Text
+    label: Section
     type:  textarea
-  thirdTitle:
-    label: Section Title
-    type:  text
   thirdText:
-    label: Text
+    label: Section
     type:  textarea
-  formTitle:
-    label: Form Title
-    type: text
   formDescription:
-    label: Description
+    label: Form
     type: textarea
-  newsletterTitle:
-    label: Newsletter Title
-    type: text
   newsletterDescription:
-    label: Description
+    label: Newsletter
     type: textarea   

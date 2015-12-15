@@ -7,27 +7,15 @@ fields:
   title:
     label: Page Title
     type:  text
-  firstTitle:
-    label: Section Title
-    type: text  
   firstText:
-    label: Text
+    label: Section
     type:  textarea
-  secondTitle:
-    label: Section Title
-    type:  text
   secondText:
-    label: Text
+    label: Section
     type:  textarea
-  thirdTitle:
-    label: Section Title
-    type:  text
   thirdText:
-    label: Text
+    label: Section
     type:  textarea
-  fourthTitle:
-    label: Section Title
-    type:  text
   fourthText:
-    label: Text
+    label: Section
     type:  textarea

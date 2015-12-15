@@ -2,60 +2,10 @@ Title: Home
 
 ----
 
-Tagline: Design for authentic souls who yearn for a<br>breath of fresh air in a world full of clutter.
-
-----
-
-Introtitle: Philosophy
-
-----
-
-Intro: 
+Text: 
 
 At the heart of our studio lies the desire to bring the passionate ideas and dreams of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, and authentic friendship. 
 
 We long to partner with people who value the short life we’ve been given by spending it pursuing meaningful, fulfilling work. They live adventurously, and love fiercely. They choose less when the world yells more. They choose to be present while others view life through a screen.
 
 ----
-
-Servicestitle: Services
-
-----
-
-Services: 
-
-As a design studio, we prefer to work with businesses who desire a full range of services.
-
-(columns...) 
-
-###Design
-Identity
-Brand Strategy
-Print Collateral
-Website Design
-Front-End Development
-
-++++
-
-###Art Direction
-Styled Shoots
-Interiors
-Content Development
-Social Media
-
-++++
-
-###Marketing
-Note
-Note
-Note
-
-(...columns)
-
-----
-
-Newslettertitle: Behind the Pines
-
-----
-
-Newsletterdescription: Written exclusively for you, our letter is centered on sharing behind the scenes details, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.

@@ -1,7 +1,7 @@
 <!-- <h2>Latest projects</h2> -->
 
 <ul class="portfolio">
-  <?php foreach(page('portfolio')->children()->visible() as $project): ?>
+  <?php foreach(page('home')->children()->visible() as $project): ?>
   <li class="one-half">
     <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
     <a href="<?php echo $project->url() ?>">

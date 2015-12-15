@@ -1,5 +1,5 @@
 body {
-	background: $dark-grey;
+	background: $bg;
 	margin: 0;
 	padding: 0;
 }
@@ -9,21 +9,26 @@ main, footer {
 .wrap {
 	@include container();
 	width: 100%;
+	margin: 0 auto;
 }
-header,
 main,
-section,
 footer {
 	@include span(12);
+	/* Add media queries here */
+	padding: 0 12em;
 }
 header {
-	padding: 2em;
+	position: fixed;
+	@include span(12);
 }
-section {
-	padding: 6em;
+main {
+	margin-top: 6em;
 }
 section.banner {
 	padding: 0;
+}
+article, section {
+	margin-bottom: 6em;
 }
 .heading {
 	@include span(3);
@@ -37,6 +42,9 @@ section.banner {
 }
 .one-third-last {
 	@include span(4 of 12 last);
+}
+.two-thirds {
+	@include span(8 of 12);
 }
 
 .one-half {

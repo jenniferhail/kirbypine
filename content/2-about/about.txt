@@ -2,29 +2,25 @@ Title: About
 
 ----
 
-Firsttitle: Philosophy
-
-----
-
 Firsttext: 
 
-Fresh, early morning air speckled with hints of the sunrise. A hot cup of coffee, its steam rising with the slowly awakening fog. Dew glistening on the buds of an evergreen tree, as the daily paper lands with a soft thud on the porch steps.
+#Welcome to Pine
 
-These moments and feelings transport us to a life lived with purpose, filled with simple joys and treasured details; transforming a cluttered world into a breath of fresh air. As we like to say, less is always more.
+At the heart of our studio lies the desire to bring the passionate ideas and dreams of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, and authentic friendship. 
 
-Our philosophy is to design meaningful and memorable experiences by questioning what will add value and choosing only the essential.
-
-----
-
-Secondtitle: Services
+We long to partner with people who value the short life we’ve been given by spending it pursuing meaningful, fulfilling work. They live adventurously, and love fiercely. They choose less when the world yells more.
 
 ----
 
 Secondtext: 
 
+#Services
+
+As a design studio, we prefer to work with businesses who desire a full range of services.
+
 (columns...) 
 
-###Graphic Design
+**Graphic Design**
 Identity
 Brand Strategy
 Print Collateral
@@ -33,7 +29,7 @@ Front-End Development
 
 ++++
 
-###Art Direction
+**Art Direction**
 Styled Shoots
 Interiors
 Content Development
@@ -41,7 +37,7 @@ Social Media
 
 ++++
 
-###Marketing
+**Marketing**
 Note
 Note
 Note
@@ -50,13 +46,9 @@ Note
 
 ----
 
-Thirdtitle: Founder & Designer
-
-----
-
 Thirdtext: 
 
-##JENNIFER HAIL
+#Founder & Designer, Jennifer Hail
 
 Jennifer is a graphic designer who works to create minimal, beautiful solutions for passionate creatives and makers. Her focus is to create a breath of fresh air in a world filled with clutter, through a simplified process that eliminates the overwhelm. Jennifer's knowledge of front-end web development and natural inclination to film photography allows her to offer a holistic approach to the needs of her clients.
 
@@ -64,13 +56,9 @@ She is inspired by slow living and purposeful past times, often dabbling in a se
 
 ----
 
-Fourthtitle: Marketing & Strategy
-
-----
-
 Fourthtext: 
 
-##KASANDRA MITCHELL
+#Marketing & Strategy, KaSandra Mitchell
 
 KaSandra is a talented content creator who works to build mutually beneficial and trusting relationships between organizations and their audiences through media and strategic communications.
 

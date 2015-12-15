@@ -4,46 +4,53 @@ nav {
 		margin: 0;
 		li {
 			position: relative;
-			vertical-align: middle;
-			display: inline-block;
-			margin-right: 2.5em;
 			a {
 				display: block;
 				text-decoration: none;
 				cursor: pointer;
-				color: $bg;
-				&:hover,
-				&:focus {
-					color: $hover;
-				}
+				font-family: $italic;
+				font-style: italic;
+				font-size: 20px;
+				line-height: 30px;
+				font-weight: 400;
+				letter-spacing: 0.25px;
 			}
 		}
 		&:after {
 		 	content: '';
-		 	display: inline-block;
 		 	height: 1px;
 		 	width: 25px;
-		 	margin-bottom: 3px;
 		 	background-color: $bg;
 		}			
 	}
-	ul#hidden-menu {
-		display: none;
-		transition: opacity 0.5s ease-in-out;
-		-webkit-transition: opacity 0.5s ease-in-out;
-		opacity: 0;
-		&:after {
-			content: '';
-			display: none;
-		}
-	}
 }
-
-nav ul:hover {
-	ul#hidden-menu {
-		display: inline-block;
-		transition: opacity 0.5s ease-in-out;
-		-webkit-transition: opacity 0.5s ease-in-out;
-		opacity: 1;
-	}
+#fixed-left-text {
+	position: absolute;
+	top: 15em;
+	left: 1em;
+	z-index: 99999;
+	width: auto;
+	height: auto;
+}
+.fixed-left-text {
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	position: fixed;
+	display: block;
+}
+#menubtn {
+	font-family: $italic;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+}
+#menuopen {
+	padding: 6em 12em 2em;
+}
+.fade {
+	opacity: 0.1;
+	-webkit-transition: opacity 0.25s linear;
+	transition: opacity 0.25s linear;
 }

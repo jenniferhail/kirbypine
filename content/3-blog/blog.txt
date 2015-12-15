@@ -1,0 +1,7 @@
+Title: Blog
+
+----
+
+Text: This is a nice demo blog. 
+
+----

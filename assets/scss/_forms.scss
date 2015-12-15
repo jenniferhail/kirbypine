@@ -1,4 +1,4 @@
-.mc-field-group label {
+form label {
 	display: none;
 }
 
@@ -22,6 +22,18 @@ input[type=submit] {
 	line-height: 39px;
 	border: $border;
 	background-color: transparent;
+	-webkit-transition: background-color 0.25s linear;
+	transition: background-color 0.25s linear;
+	&:hover {
+		background-color: #b2b2b2;
+		color: $bg;
+	}
+}
+select {
+	width: 100%;
+	border: $border;
+	background-color: transparent;
+	line-height: 39px;
 }
 
 /* Placeholders */

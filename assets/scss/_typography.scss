@@ -1,8 +1,8 @@
 body, input, textarea {
 	color: $text;
 	font-family: $main;
-	font-size: 18px;
-	line-height: 32px;
+	font-size: 16px;
+	line-height: 28px;
 	font-weight: 300;
 	letter-spacing: 0.25px;
 }
@@ -24,9 +24,11 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
 	font-family: $italic;
 	font-style: italic;
-	font-size: 32px;
+	font-size: 20px;
+	line-height: 30px;
 	font-weight: 400;
 	letter-spacing: 0.25px;
+	margin-bottom: 1em;
 }
 h2 {
 	
@@ -46,7 +48,25 @@ h6 {
 	
 }
 
-
+time {
+	font-family: $italic;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: 400;
+	letter-spacing: 0.25px;
+	transform: rotate(90deg);
+}
+.readmore,
+.back {
+	font-family: $italic;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: 400;
+	letter-spacing: 0.25px;
+	a {
+		border-bottom: $border;
+	}
+}
 hr {
 	background-color: #ccc;
 	border: 0;
@@ -57,12 +77,14 @@ hr {
 /* Forms */
 #{$all-text-inputs}, 
 textarea,
+select,
 input[type=submit] {
 	font-family: $italic;
 	font-style: italic;
 	font-size: 16px;
 	font-weight: 400;
 	letter-spacing: 0.5px;
+	margin-top: 2em;
 }
 
 /* Text elements */
@@ -159,8 +181,10 @@ sub {
 a {
 	color: $links;
 	text-decoration: none;
+	-webkit-transition: color 0.25s linear;
+	-moz-transition: color 0.2s linear;
+	transition: color 0.25s linear;
 	&:focus,
-	&:active,
 	&:hover {
 		color: $hover;
 	}
