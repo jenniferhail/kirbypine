@@ -17,7 +17,7 @@
           m.preventDefault();
           m.stopPropagation();
           $('#menuopen').fadeToggle();
-          $('.main').toggleClass('fade');
+          $('header').addClass('full-height');
           return false;
          });
         $('#menuopen').click(function(m) {
@@ -41,7 +41,9 @@
         <a href="#" id="menubtn"><span>Menu —</span></a>
       </div>
     </div>
-    <?php snippet('menu') ?>
+    <div id="menuopen" class="fade" style="display: none;">
+      <?php snippet('menu') ?>
+    </div>
 <!--     <a class="logo left" href="<?php echo url() ?>">
       <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
     </a> -->

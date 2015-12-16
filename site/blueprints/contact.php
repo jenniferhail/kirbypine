@@ -6,7 +6,10 @@ files: true
 fields:
   title:
     label: Page Title
-    type:  text  
+    type:  text
+  description:
+    label: Page Description
+    type:  text 
   firstText:
     label: Section
     type:  textarea

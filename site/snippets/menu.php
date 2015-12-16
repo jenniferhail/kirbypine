@@ -1,4 +1,4 @@
-<nav id="menuopen" role="navigation" style="display: none;">
+<nav role="navigation">
   <ul>
       <?php foreach($pages->visible() as $p): ?>
         <li>

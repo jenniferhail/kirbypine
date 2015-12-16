@@ -1,6 +1,14 @@
 form label {
 	display: none;
 }
+.contactform {
+	position: relative;
+}
+.submit {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
 
 /* See _mixins.scss for more on this method for handling HTML5 elements */
 #{$all-text-inputs}, 

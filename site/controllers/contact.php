@@ -5,16 +5,19 @@ return function($site, $pages, $page) {
     $data = array(
       'name'  => get('name'),
       'email' => get('email'),
+      'budget' => get('budget'),
       'message'  => get('message')
     );
     $rules = array(
       'name'  => array('required'),
       'email' => array('required', 'email'),
+      'budget'  => array('required'),
       'message'  => array('required', 'min' => 3, 'max' => 3000),
     );
     $messages = array(
       'name'  => 'Please enter a valid name',
       'email' => 'Please enter a valid email address',
+      'budget'  => 'Please enter a valid budget',
       'message'  => 'Please enter a message between 3 and 3000 characters'
     );
     // some of the data is invalid
