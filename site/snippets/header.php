@@ -12,36 +12,30 @@
   <?php echo css('assets/css/style.css') ?>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <script type="text/javascript"> 
-    $( document ).ready( function () {
-      $('#menubtn').click(function () {
-        if(!$('#menuopen').is(':visible')){
-          $('#menuopen').fadeIn('slow', function() {
-            $('.header').toggleClass('full-height');
-          });
-        } else {
-          $('#menuopen').fadeOut('slow', function() {
-            $('.header').toggleClass('full-height');
-          });
-        }
-      });
-    });   
+     $(document).ready(function() {
+        $('#menubtn').click(function(m) {
+          m.preventDefault();
+          m.stopPropagation();
+          $('#menuopen').fadeToggle();
+          return false;
+         });
+        $('#menuopen').click(function(m) {
+          m.stopPropagation();
+        });
+     }); 
   </script>
 
 </head>
 <body>
 
 <div class="wrap">
-
-  <header class="header cf" role="banner">
-    <div id="fixed-left-text">
-      <div class="fixed-left-text">
-        <a href="#" id="menubtn"><span>Menu —</span></a>
-      </div>
+  <div id="fixed-left-text">
+    <div class="fixed-left-text">
+      <a href="#" id="menubtn"><span>Menu —</span></a>
     </div>
-    <div id="menuopen" style="display: none;">
+  </div>
+  <header id="menuopen" class="header cf" role="banner" style="display: none;">
+    <div>
       <?php snippet('menu') ?>
     </div>
-<!--     <a class="logo left" href="<?php echo url() ?>">
-      <img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
-    </a> -->
   </header>

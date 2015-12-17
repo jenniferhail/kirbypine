@@ -2,9 +2,8 @@
   <?php foreach(page('home')->children()->visible() as $project): ?>
   <div class="project">
     <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
-    <a href="<?php echo $project->url() ?>">
-      <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
-    </a>
+    <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
+    <a href="<?php echo $project->url() ?>"></a>
     <?php endif ?>
   </div>
   <?php endforeach ?>
