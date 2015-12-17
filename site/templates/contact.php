@@ -4,7 +4,7 @@
 
     <?php if($image = $page->image('pine-contact.jpg')): ?>
     <section>
-      <figure>
+      <figure class="landscape">
         <img src="<?php echo $image->url() ?>" alt="<?php echo html($image->title()) ?>">
       </figure>
     </section>

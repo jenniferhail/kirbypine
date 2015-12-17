@@ -53,7 +53,12 @@ article, section {
 		@include span(6 of 12 last);
 	}
 }
-
+.portrait {
+	width: $portrait;
+}
+.landscape {
+	width: $landscape;
+}
 /* Columns */
 
 .columns {
