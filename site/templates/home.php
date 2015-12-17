@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
 
-    <section>
+    <section class="portfolio-ctn">
       <?php snippet('projects') ?>
     </section>
 

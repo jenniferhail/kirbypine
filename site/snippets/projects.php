@@ -1,13 +1,18 @@
-<!-- <h2>Latest projects</h2> -->
-
-<ul class="portfolio">
+<div class="portfolio">
   <?php foreach(page('home')->children()->visible() as $project): ?>
-  <li class="one-half">
+  <div class="project">
     <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
     <a href="<?php echo $project->url() ?>">
       <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
     </a>
     <?php endif ?>
-  </li>
+  </div>
   <?php endforeach ?>
-</ul>
+</div>
+<script type="text/javascript">
+  var w_width = $(document).width();
+  var projects_height = $(".portfolio").height();
+  if (w_width >= 768) {
+    $(".portfolio-ctn").css("min-height" , projects_height);
+  }
+</script>

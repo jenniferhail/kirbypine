@@ -1,3 +1,48 @@
+/* Home + Portfolio */
+
+.portfolio {
+	min-height: 1200px;
+	@include clearfix();
+}
+.project {
+	position: absolute;
+	margin-bottom: 2em;
+	height: auto;
+	&.left {
+		left: 0;
+	}
+	&.right {
+		right: 0;
+	}
+	&:first-child {
+		right: 0;
+		top: 0;
+		z-index: 1;
+		width: $landscape;
+	}
+	&:nth-child(2n) {
+		left: 0;
+		top: 12%;
+		z-index: 3;
+		width: $portrait;
+	}
+	&:nth-child(3n) {
+		right: 0;
+		top: 61%;
+		z-index: 4;
+		width: $portrait;
+	}
+	&:last-child {
+		left: 0;
+		top: 80%;
+		z-index: 2;
+		width: $landscape;
+	}
+	&:hover {
+		z-index: 100;
+	}
+}
+
 /* Blog */
 article:hover {
 	time {
@@ -10,6 +55,7 @@ article:hover {
 	display: block;
 }
 
+
 ul.instagram-feed {
 	list-style: none;
 	margin: 0;
@@ -21,10 +67,6 @@ ul.instagram-feed {
 			margin-right: 0;
 		}
 	}
-}
-ul.portfolio {
-	list-style: none;
-	margin: 0;
 }
 
 img,
