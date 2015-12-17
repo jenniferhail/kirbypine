@@ -3,6 +3,9 @@ header {
 }
 .full-height {
 	height: 100%;
+	background-color: rgba(255,255,255,0.9);
+	-webkit-transition: background 0.25s linear;
+	transition: background 0.25s linear;
 }
 .logo img {
 	max-width: 115px;

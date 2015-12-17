@@ -63,3 +63,7 @@ Fourthtext:
 KaSandra is a talented content creator who works to build mutually beneficial and trusting relationships between organizations and their audiences through media and strategic communications.
 
 She is an avid adventurer—recently spending four months living and working in a castle in the English countryside—as well as a passionate health and fitness advocate, teaching workout classes and perfecting her headstand in her free time. Kassie is forging her own path and she is excited to help you plan and map out your own.
+
+----
+
+Description: Learn more about us and what we do.

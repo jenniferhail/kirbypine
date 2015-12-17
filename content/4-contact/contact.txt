@@ -42,11 +42,11 @@ If you’re considering working with Pine, it’s likely that you have a few que
 *Can I see your pricing sheet?*
 Yes, of course! Because each client’s needs are different, we prefer to learn more about your project in order to create a detailed quote. However, our pricing sheets reflects minimum costs for all of the services we offer. If your needs aren’t included on the list, please inquire. We might be able to help, or help you find a trusted colleague who can. (link: /pine-pricing.pdf text: Click here to download our pricing.)
 
-*How long does your process take?*
+*How long is your process?*
 We prefer a minimum of three weeks to complete any project. Please keep in mind that printing usually requires an additional two weeks.
 
 *What methods of payment do you accept?*
-Payment by check or Square Cash are preferred, however we can also accommodate online payment if necessary.
+Payment by check or Square Cash are preferred, however we can also accommodate online payment.
 
 ----
 
@@ -63,3 +63,7 @@ Newsletterdescription:
 #Behind the Pines
 
 Written exclusively for you, our letter is all about sharing details behind the scenes, design tips and resources, and studio news. Sign up for our letter, Behind the Pines, and receive a guide to our favorite design and business tools.
+
+----
+
+Description: So, you want to work with us? Meet for coffee? Follow us on Instagram?
