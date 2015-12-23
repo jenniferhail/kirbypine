@@ -6,7 +6,7 @@ Year: 2014
 
 ----
 
-Tags: Product Design,Packaging
+Tags: Product Design, Packaging
 
 ----
 
@@ -22,5 +22,5 @@ I had so much fun dreaming up this project and bringing it to life. Many thanks 
 
 Credits: 
 
-Candle Makers on the Square — candles
-Emily Dahl — sewing
+(link: http://candlemakersbg.com/ text: Candle Makers on the Square) — candles
+(link: https://www.facebook.com/Mrsdahlfaceshop/?fref=ts text: Emily Dahl) — sewing

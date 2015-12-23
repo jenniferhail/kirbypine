@@ -15,7 +15,7 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'put your license key here');
+c::set('license', '99e1a3f47728dc66f93cae7375868dca');
 
 /*
 
@@ -56,4 +56,14 @@ c::set('routes', array(
       go('login');
     }
   )
+));
+
+c::set('languages', array(
+   array(
+      'code'    => 'en',
+      'name'    => 'English',
+      'locale'  => 'en_US',
+      'default' => true,
+      'url'     => '/'
+   )
 ));

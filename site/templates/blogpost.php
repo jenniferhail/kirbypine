@@ -6,10 +6,31 @@
 
       <article>
         <h1><?php echo $page->title()->html() ?></h1>
-        <?php echo $page->text()->kirbytext() ?>
+        <div class="blogcontent">
+          <?php echo $page->textOne()->kirbytext() ?>
+        </div>
+      </article>
 
+      <article>
+        <div class="blogimages group-one">
+          <?php echo $page->imagesOne()->kirbytext() ?>
+        </div>       
+      </article>
+
+      <article>
+        <div class="blogcontent">
+          <?php echo $page->textTwo()->kirbytext() ?>
+        </div>       
+      </article>
+
+      <article>
+        <div class="blogimages group-two">
+          <?php echo $page->imagesTwo()->kirbytext() ?>
+        </div> 
+      </article>   
+
+      <article>
         <span class="back"><a href="<?php echo url('blog') ?>">Back</a></span>
-
       </article>
 
       <div id="comments">

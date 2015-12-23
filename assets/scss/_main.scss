@@ -19,12 +19,6 @@
 		left: 0;
 		right: 0;
 	}
-	&.left {
-		left: 0;
-	}
-	&.right {
-		right: 0;
-	}
 	&:first-child {
 		right: 0;
 		top: 0;
@@ -72,8 +66,8 @@
 }
 
 /* Blog */
-article:hover {
-	time {
+article {
+	&:hover time {
 		display: block;
 	}
 }
@@ -81,9 +75,44 @@ article:hover {
 .back {
 	text-align: right;
 	display: block;
+	clear: both;
+}
+.blogarticle {
+	.blogimages {
+		position: relative;
+		@include clearfix();
+	}
+	p {
+		clear: both;
+	}
+	figure {
+		z-index: 1;
+		&.right {
+			float: right;
+		}
+		&.left {
+			float: left;
+		}
+		&:hover {
+			z-index: 100;
+		}
+	}
+	.zero {
+		margin-top: 0;
+		position: relative;
+	}
+	.sixteen {
+		margin-top: 16%;
+		position: absolute;
+	}
+	.forty {
+		margin-top: 40%;
+		position: absolute;
+	}
 }
 
 
+/* Other */
 ul.instagram-feed {
 	list-style: none;
 	margin: 0;
