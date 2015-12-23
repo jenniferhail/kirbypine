@@ -10,6 +10,12 @@
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
   <?php echo css('assets/css/style.css') ?>
+
+  <!-- custom css -->
+  <?php foreach($page->files()->filterBy('extension', 'css') as $css): ?>
+  <?php echo css($css->url()) ?>
+  <?php endforeach ?>
+
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <script type="text/javascript"> 
      $(document).ready(function() {

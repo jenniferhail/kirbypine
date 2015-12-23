@@ -1,4 +1,4 @@
-Title: Another Blog Post
+Title: A Trip to Vancouver
 
 ----
 
@@ -6,14 +6,34 @@ Date: 12/13/2015
 
 ----
 
-Category: Design
+Category: Travel, Adventure
 
 ----
 
-Text: 
+textOne: 
 
 Réqùë èxplïcàrï duô ne, cûm pôsse scaévola în. Latiné tîbïqûé vël ne, ést viris principes moderàtîus ëx. Hâs èx minimùm recûsabo. Solum saepè complêctitur vix eâ, libér cônstituto reprëhêndunt pri cù, id primîs êqûidèm adversàriûm usu. Nam ne fûgït apërîam èloquentiam, id maîéstàtis èfficïantur pro.
 
+----
+
+imagesOne: 
+
+(image: vancouver-1.jpg class: zero right landscape)
+
+(image: vancouver-2.jpg class: sixteen left portrait)
+
+----
+
+textTwo: 
+
 Vix quaequé nominavi referrentùr et. Ex vîdît rëprîmîque quo, tântas graecô prœprïae duô at, in vèlït splêndïdé hàs. Te duo omïttam proprîâé, iûsto iriure delicata sit et. Ei vix persîus nùmqùam àntîopam, àtqui detracto çu vel, àt cùm pùtént délénîtî vertèrèm. His eros âssûm dôctûs eà. Integre ullamcôrper cû has, no seà âdœléscéns instruçtïor.
+
+----
+
+imagesTwo: 
+
+(image: vancouver-3.jpg class: zero right landscape)
+
+(image: vancouver-4.jpg class: forty left landscape)
 
 ----

@@ -28,8 +28,8 @@ return function($site, $pages, $page) {
       // create the body from a simple snippet
       $body  = snippet('contactmail', $data, true);
       // build the email
-      $email = email(array(
-        'to'      => 'hello@bypine.co',
+      $email = new Email(array(
+        'to'      => 'jennifer.hail08@gmail.com',
         'from'    => 'admin@bypine.co',
         'subject' => 'New contact request',
         'replyTo' => $data['email'],

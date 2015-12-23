@@ -59,6 +59,12 @@ article, section {
 .landscape {
 	width: $landscape;
 }
+.left {
+	left: 0;
+}
+.right {
+	right: 0;
+}
 /* Columns */
 
 .columns {
