@@ -6,7 +6,7 @@ Firsttext:
 
 #Welcome to Pine
 
-At the heartwood* of our studio lies the desire to bring the passionate ideas and dreams of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, and authentic friendship. 
+At the heartwood* of our studio lies the desire to bring the passionate ideas of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, good design, and authentic friendship. 
 
 We long to partner with people who value the short life we’ve been given by spending it pursuing meaningful, fulfilling work. They live adventurously, and love fiercely. They choose less when the world yells more.
 
@@ -32,8 +32,8 @@ Front-End Development
 ++++
 
 **Art Direction**
+Brand & Business Consulting
 Styled Shoots
-Interiors
 Content Development
 Social Media
 
