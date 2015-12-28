@@ -12,10 +12,22 @@ main, footer {
 	margin: 0 auto;
 }
 main,
-footer {
-	@include span(12);
+footer,
+nav {
+	width: 75%;
+	max-width: 1000px;
+	margin: 0 auto;
 	/* Add media queries here */
-	padding: 0 12em;
+}
+nav {
+	padding-top: 6em;
+}
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  	main,
+  	footer,
+  	nav {
+  		width: 95%;
+  	}
 }
 header {
 	position: fixed;
