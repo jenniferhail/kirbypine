@@ -65,3 +65,23 @@ nav {
 	-webkit-transition: display 0.25s linear;
 	transition: display 0.25s linear;
 }
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+	nav ul#links, nav ul#description {
+		@include span(12);
+	}
+	#fixed-left-text {
+		position: relative;
+		top: 0;
+		left: 0;
+		text-align: center;
+		padding: 2em 0;
+	}
+	.fixed-left-text {
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg);
+		position: relative;
+		display: block;
+	}	
+}
