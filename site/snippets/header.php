@@ -41,7 +41,5 @@
     </div>
   </div>
   <header id="menuopen" class="header cf" role="banner" style="display: none;">
-    <div>
-      <?php snippet('menu') ?>
-    </div>
+    <?php snippet('menu') ?>
   </header>
