@@ -24,3 +24,11 @@ Footer:
 - +1 270 304 7616
 - (link: /privacy-policy text: Privacy Policy)
 - © 2015 Pine, LLC
+
+----
+
+piwik_url: stats.bypine.co
+
+----
+
+piwik_id: 1
