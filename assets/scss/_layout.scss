@@ -104,4 +104,11 @@ article, section {
   	main {
   		margin-top: 0;
   	}
+	.one-third, 
+	.one-third-last, 
+	.two-thirds,
+	.one-half,
+	.one-half:nth-child(2n) {
+		@include span(12);
+	} 	
 }
