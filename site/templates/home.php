@@ -10,6 +10,11 @@
       <?php echo $page->text()->kirbytext() ?>
     </section>
 
+    <section>
+      <?php echo $page->newsletterDescription()->kirbytext() ?>
+      <?php snippet('newsletter') ?>
+    </section>     
+
   </main>
 
 <?php snippet('footer') ?>

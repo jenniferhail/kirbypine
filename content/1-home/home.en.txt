@@ -6,8 +6,16 @@ Text:
 
 #Pine
 
-Design for authentic souls who yearn for a breath of fresh air in a world full of clutter.
+Design for authentic souls who yearn for a breath of fresh air in a world full of clutter. We believe in quality over quantity, living adventurously, and making good design that lasts.
 
 ----
 
 Description: Peruse our best work. We specialize in design and marketing for small, adventurous businesses.
+
+----
+
+NewsletterDescription:
+
+#Behind the Pines
+
+Our letter is written exclusively for you, and it's all about designing a life full of the things that bring you joy. We particularly focus on adventure, reflection, and tools for a better life and business. Join the forest and receive a free guide to our favorite tools!

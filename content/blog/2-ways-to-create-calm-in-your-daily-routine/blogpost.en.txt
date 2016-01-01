@@ -10,12 +10,64 @@ Category: Lifestyle
 
 ----
 
-textOne: 
+Text: 
+
+<div class="blogcontent" markdown="1">
 
 Eam nùlla rîdens nomînàvi in. Cu nûsquam sîngùlis eûm. Nô tatîôn éssént latiné mêa. An mènandri maièstatis dùô, fëùgaït nominati suscïpiantur eàm êx, alïquam feûgait indoçtum éa ëst. Duo in ërùditî utrôque, èa pro œbliqué ornatûs. Aûdïré pètentium elœqûentîam çum no. At solum persècutî argumentùm vim, àdhuc reformidàns mea âd, justô prïmis mandamus eœs no.
 
-(image: morning-coffee.jpg)
+</div>
+
+<div class="blogimages group-one">
+
+(image: coffee-1.jpg class: zero left portrait)
+
+(image: coffee-2.jpg class: sixteen right portrait)
+
+(image: coffee-3.jpg class: thirty left portrait)
+
+</div>
+
+<div class="blogcontent" markdown="1">
 
 Eam nùlla rîdens nomînàvi in. Cu nûsquam sîngùlis eûm. Nô tatîôn éssént latiné mêa. An mènandri maièstatis dùô, fëùgaït nominati suscïpiantur eàm êx, alïquam feûgait indoçtum éa ëst. Duo in ërùditî utrôque, èa pro œbliqué ornatûs. Aûdïré pètentium elœqûentîam çum no. At solum persècutî argumentùm vim, àdhuc reformidàns mea âd, justô prïmis mandamus eœs no.
+
+</div>
+
+<div class="blogimages group-two">
+
+(image: coffee-4.jpg class: zero right portrait)
+
+(image: coffee-5.jpg class: sixteen left portrait)
+
+</div>
+
+<div class="blogimages group-three">
+
+(image: coffee-6.jpg class: zero right portrait)
+
+(image: coffee-7.jpg class: sixteen left portrait)
+
+(image: coffee-8.jpg class: thirty right portrait)
+
+</div>
+
+<div class="blogcontent" markdown="1">
+
+Réqùë èxplïcàrï duô ne, cûm pôsse scaévola în. Latiné tîbïqûé vël ne, ést viris principes moderàtîus ëx. Hâs èx minimùm recûsabo. Solum saepè complêctitur vix eâ, libér cônstituto reprëhêndunt pri cù, id primîs êqûidèm adversàriûm usu. Nam ne fûgït apërîam èloquentiam, id maîéstàtis èfficïantur pro.
+
+Réqùë èxplïcàrï duô ne, cûm pôsse scaévola în. Latiné tîbïqûé vël ne, ést viris principes moderàtîus ëx. Hâs èx minimùm recûsabo. Solum saepè complêctitur vix eâ, libér cônstituto reprëhêndunt pri cù, id primîs êqûidèm adversàriûm usu. Nam ne fûgït apërîam èloquentiam, id maîéstàtis èfficïantur pro.
+
+</div>
+
+<div class="blogimages group-four">
+
+(image: coffee-9.jpg class: sixteen right portrait)
+
+(image: coffee-10.jpg class: zero left portrait)
+
+(image: coffee-11.jpg class: sixteen left portrait)
+
+</div>
 
 ----

@@ -6,27 +6,7 @@
 
       <article>
         <h1><?php echo $page->title()->html() ?></h1>
-        <div class="blogcontent">
-          <?php echo $page->textOne()->kirbytext() ?>
-        </div>
-      </article>
-
-      <article>
-        <div class="blogimages group-one">
-          <?php echo $page->imagesOne()->kirbytext() ?>
-        </div>       
-      </article>
-
-      <article>
-        <div class="blogcontent">
-          <?php echo $page->textTwo()->kirbytext() ?>
-        </div>       
-      </article>
-
-      <article>
-        <div class="blogimages group-two">
-          <?php echo $page->imagesTwo()->kirbytext() ?>
-        </div> 
+        <?php echo $page->text()->kirbytext() ?>       
       </article>   
 
       <article>

@@ -17,6 +17,9 @@ fields:
   credits:
     label: Credits
     type: textarea
+  images:
+    label: Images
+    type: textarea
   text:
     label: Text
     type:  textarea
