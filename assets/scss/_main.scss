@@ -139,4 +139,13 @@ img,
 	.portfolio {
 		min-height: 560px;
 	}
+	.project-images {
+		img {
+			margin-bottom: 0;
+		}
+	}
+	.project-details,
+	.project-credits {
+		@include span(12);
+	}	
 }

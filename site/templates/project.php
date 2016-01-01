@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
 
-    <section>
+    <section class="project-images">
       <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
       <figure>
         <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
