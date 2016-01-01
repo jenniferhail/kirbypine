@@ -82,6 +82,9 @@ article {
 		position: relative;
 		@include clearfix();
 	}
+	div {
+		margin-bottom: 6em;
+	}
 	p {
 		clear: both;
 	}
@@ -130,4 +133,10 @@ img,
 #mc_embed_signup,
 .instagram {
 	margin-bottom: 1.5em;
+}
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+	.portfolio {
+		min-height: 560px;
+	}
 }

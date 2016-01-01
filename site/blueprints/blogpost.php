@@ -10,15 +10,6 @@ fields:
   category:
     label: Category
     type:  tags  
-  textOne:
-    label: Content
-    type: textarea
-  imagesOne:
-    label: Content
-    type: textarea
-  textTwo:
-    label: Content
-    type: textarea
-  imagesTwo:
+  text:
     label: Content
     type: textarea

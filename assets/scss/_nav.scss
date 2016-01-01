@@ -74,8 +74,9 @@ nav {
 		position: relative;
 		top: 0;
 		left: 0;
-		text-align: center;
-		padding: 2em 0;
+		// width: 95%;
+		margin: 0 auto;
+		padding-bottom: 4em;
 	}
 	.fixed-left-text {
 		-webkit-transform: rotate(0deg);
@@ -83,5 +84,9 @@ nav {
 		transform: rotate(0deg);
 		position: relative;
 		display: block;
+		position: fixed;
+		background: rgba(255,255,255,0.9);
+		width: 100%;
+		padding: 1em 2.5%;
 	}	
 }

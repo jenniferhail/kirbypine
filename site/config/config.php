@@ -67,3 +67,5 @@ c::set('languages', array(
       'url'     => '/'
    )
 ));
+
+c::set('markdown.extra', true);
