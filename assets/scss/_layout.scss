@@ -110,5 +110,22 @@ article, section {
 	.one-half,
 	.one-half:nth-child(2n) {
 		@include span(12);
-	} 	
+	} 
+	/* Columns */
+
+	.columns {
+	  margin-right: 0;
+	}
+	.column {
+	  display: block;
+	  vertical-align: none;
+	  padding-right: 0;
+	}
+	.columns-1 .column,
+	.columns-2 .column,
+	.columns-3 .column,
+	.columns-4 .column,
+	.columns-5 .column {
+	  width: 100%;
+	}	
 }
