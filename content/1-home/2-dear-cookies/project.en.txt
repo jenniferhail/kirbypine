@@ -10,6 +10,14 @@ Tags: Identity, Styling, Calligraphy
 
 ----
 
+Photos:
+
+(image: dear-cookies-1.jpg class: one-half)
+
+(image: dear-cookies-2.jpg class: one-half-last)
+
+----
+
 Text: 
 
 Dear Cookies was created for a design course that prompted me to brainstorm an idea for a business. I combined my love for calligraphy with baking homemade cookies, and turned it into a care package boutique.
