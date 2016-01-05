@@ -16,6 +16,6 @@ Description: We specialize in design and marketing for small, adventurous busine
 
 NewsletterDescription:
 
-#Behind the Pines
+#Join the Forest
 
 Our letter is written exclusively for you, and it's all about designing a life full of the things that bring you joy. We particularly focus on adventure, reflection, and tools for a better life and business. Join the forest and receive a free guide to our favorite tools!
