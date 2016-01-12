@@ -16,6 +16,16 @@ Photos:
 
 (image: dear-cookies-2.jpg class: one-half-last)
 
+(image: dear-cookies-3.jpg)
+(image: dear-cookies-4.jpg)
+(image: dear-cookies-5.jpg)
+(image: dear-cookies-6.jpg)
+(image: dear-cookies-7.jpg)
+(image: dear-cookies-8.jpg)
+(image: dear-cookies-9.jpg)
+(image: dear-cookies-10.jpg)
+(image: dear-cookies-11.jpg)
+
 ----
 
 Text: 
