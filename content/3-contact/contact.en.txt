@@ -4,14 +4,6 @@ Title: Contact
 
 Firsttext: 
 
-#Thank You
-
-We’re so glad that you’re interested in working with us. We will reply to every message within two–three days.
-
-----
-
-Secondtext: 
-
 #The Details
 
 (columns...)
@@ -33,7 +25,7 @@ Next opening
 
 ----
 
-Thirdtext: 
+Secondtext:
 
 #Pricing & FAQ
 
@@ -52,11 +44,15 @@ Payment by check or Square Cash are preferred, however we also accept online pay
 
 ----
 
+Thirdtext:
+
+----
+
 Formdescription: 
 
 #Send a Message
 
-If inquiring about working with Pine, please include as much detail as you can about your project, timeline, budget, and needs, so we can thoughtfully reply.
+If inquiring about working with us, please include as much detail as you can about your project, timeline, budget, and needs, so we can thoughtfully reply. We try our best to reply to every message within two–three days.
 
 ----
 

@@ -15,12 +15,12 @@
     </section>
 
     <section>
-      <?php echo $page->secondText()->kirbytext() ?>
-    </section>
-
-    <section>
         <?php echo $page->formDescription()->kirbytext() ?>
         <?php snippet('form') ?>
+    </section>    
+
+    <section>
+      <?php echo $page->secondText()->kirbytext() ?>
     </section>
 
     <section>

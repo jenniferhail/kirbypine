@@ -24,7 +24,7 @@ As a design studio, we prefer to work with businesses who desire a full range of
 
 (columns...) 
 
-**Graphic Design**
+####Graphic Design
 Identity
 Brand Strategy
 Print Collateral
@@ -32,7 +32,7 @@ Website Design
 
 ++++
 
-**Art Direction**
+####Art Direction
 Brand & Business Consulting
 Styled Shoots
 Content Development
@@ -40,7 +40,7 @@ Social Media
 
 ++++
 
-**Marketing**
+####Marketing
 Strategy
 Content Creation
 Social Media
