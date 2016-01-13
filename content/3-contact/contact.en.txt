@@ -40,7 +40,9 @@ Thirdtext:
 If you’re considering working with us, you might have a few questions. We know your time is valuable, so we’ve compiled a list of the most commonly requested information. Please contact us if you would like to know more.
 
 *Can I see your pricing guide?*
-Of course! Because each client’s needs are different, we prefer to learn more about your project in order to create a detailed quote. However, our pricing guide reflects minimum pricing for all of the services we offer. If your needs aren’t included on the list, please inquire. We might be able to help, or direct you to a trusted colleague who can. (link: /contact/pine-pricing.pdf text: Click here to download our pricing guide.)
+Of course! Because each client’s needs are different, we prefer to learn more about your project in order to create a detailed quote. However, our pricing guide reflects minimum pricing for all of the services we offer. If your needs aren’t included on the list, please inquire. We might be able to help, or direct you to a trusted colleague who can.
+
+View our pricing for (link: /contact/pine-pricing.pdf text: design services) or (link: /contact/pine-pricing-calligraphy.pdf text: calligraphy).
 
 *How long is your process?*
 We prefer a minimum of three weeks to complete any project. Please keep in mind that printing usually requires an additional two weeks, and projects are scheduled in advance.
