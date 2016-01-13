@@ -18,7 +18,9 @@ Secondtext:
 
 #Services
 
-As a design studio, we prefer to work with businesses who desire a full range of services.
+As a design studio, we prefer to work with businesses who desire a full range of services. 
+
+(link: /contact text: Send us a message) if you're interested in working together, or view our pricing for (link: /contact/pine-pricing.pdf text: design services) and (link: /contact/pine-pricing-calligraphy.pdf text: calligraphy).
 
 (columns...) 
 
