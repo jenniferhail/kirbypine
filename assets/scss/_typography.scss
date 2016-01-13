@@ -190,6 +190,11 @@ a {
 	}
 }
 
+main a {
+	border-bottom: $border;
+	padding-bottom: 3px;
+}
+
 
 /* Assistive text */
 .assistive-text {
