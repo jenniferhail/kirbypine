@@ -1,0 +1,42 @@
+Title: Envelope Liners
+
+----
+
+Text: Testing
+
+----
+
+Variants: 
+
+- 
+  name: Custom Design
+  price: "2"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: ""
+  description: ""
+- 
+  name: Default
+  price: "0.35"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: ""
+  description: ""
+
+----
+
+Noshipping: 0
+
+----
+
+Notax: 0
+
+----
+
+Tags: 
+
+----
+
+Relatedproducts: 

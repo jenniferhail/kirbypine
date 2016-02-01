@@ -1,0 +1,34 @@
+Title: Envelope Addressing
+
+----
+
+Text: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+
+----
+
+Variants: 
+
+- 
+  name: Default
+  price: "2"
+  sku: ""
+  weight: ""
+  stock: ""
+  options: ""
+  description: $2 per envelope
+
+----
+
+Noshipping: 0
+
+----
+
+Notax: 0
+
+----
+
+Tags: 
+
+----
+
+Relatedproducts: 

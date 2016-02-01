@@ -58,11 +58,17 @@
 }
 
 /* Projects */
+.project-images {
+	@include span(4 of 4 last);
+	.seventyfive {
+		@include span(3 of 4 last);
+	}
+}
 .project-details {
-	@include span(4 of 12);
+	@include span(1 of 4);
 }
 .project-credits {
-	@include span(8 of 12 last);
+	@include span(3 of 4 last);
 }
 
 /* Blog */
@@ -142,6 +148,9 @@ img,
 	.project-images {
 		img {
 			margin-bottom: 0;
+		}
+		.seventyfive {
+			@include span(12);
 		}
 	}
 	.project-details,

@@ -1,5 +1,7 @@
 <?php snippet('header') ?>
 
+	<main class="main" role="main">
+
 		<?php snippet('breadcrumb') ?>
 		
 		<h1><?php echo $page->title()->html() ?></h1>
@@ -79,5 +81,7 @@
 				<?php snippet('list.product',['products' => $products]) ?>
 			</section>
 		<?php } ?>
+
+	</main>
 
 <?php snippet('footer') ?>
