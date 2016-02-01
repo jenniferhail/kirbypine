@@ -24,10 +24,6 @@
     </section>
 
     <section>
-      <?php echo $page->thirdText()->kirbytext() ?>
-    </section>
-
-    <section>
       <?php echo $page->newsletterDescription()->kirbytext() ?>
       <?php snippet('newsletter') ?>
     </section>     

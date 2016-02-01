@@ -3,7 +3,9 @@
   <main class="main" role="main">
 
     <section class="project-images">
-      <?php echo $page->Photos()->kirbytext() ?>
+      <div class="seventyfive">
+        <?php echo $page->Photos()->kirbytext() ?>
+      </div>
     </section>
 
     <section class="project-details">

@@ -32,6 +32,9 @@ main {
 section.banner {
 	padding: 0;
 }
+section {
+	@include span(3 of 4 last);
+}
 article, section {
 	margin-bottom: 6em;
 }
@@ -107,6 +110,9 @@ article, section {
   	main {
   		margin-top: 0;
   	}
+  	section {
+		@include span(12);
+	}
 	.one-third, 
 	.one-third-last, 
 	.two-thirds,

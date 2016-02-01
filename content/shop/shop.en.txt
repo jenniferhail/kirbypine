@@ -1,0 +1,50 @@
+Title: Shop
+
+----
+
+Text: 
+
+----
+
+Shipping: 
+
+- 
+  method: Pick-up
+  countries: united-states
+  flat: "0"
+  item: ""
+  weight: ""
+  price: ""
+  calculation: low
+
+----
+
+Tax: 
+
+----
+
+Paylater: admin
+
+----
+
+Currency-code: USD
+
+----
+
+Currency-symbol: $
+
+----
+
+Currency-position: before
+
+----
+
+Paypal-email: jennifer@bypine.co
+
+----
+
+Paypal-action: sandbox
+
+----
+
+Featured: 
