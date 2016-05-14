@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Firsttext: 
+Text: 
 
 #The Details
 
@@ -14,45 +14,17 @@ Louisville, Kentucky
 ++++
 
 (email: hello@bypine.co text: hello@bypine.co)
-+1 270 304 7616
-
-++++
-
-Next opening
-*Accepting clients for Spring 2016*
++1 502 966-PINE (7463)
 
 (...columns)
 
 ----
 
-Secondtext:
-
-#Pricing & FAQ
-
-If you’re considering working with us, you might have a few questions. We know your time is valuable, so we’ve compiled a list of the most commonly requested information. Please contact us if you would like to know more.
-
-*Can I see your pricing guide?*
-Of course! Because each client’s needs are different, we prefer to learn more about your project in order to create a detailed quote. However, our pricing guide reflects minimum pricing for all of the services we offer. If your needs aren’t included on the list, please inquire. We might be able to help, or direct you to a trusted colleague who can.
-
-View our pricing for (link: /contact/pine-pricing.pdf text: design services) or (link: /contact/pine-pricing-calligraphy.pdf text: calligraphy).
-
-*How long is your process?*
-We prefer a minimum of three weeks to complete any project. Please keep in mind that printing usually requires an additional two weeks, and projects are scheduled in advance.
-
-*What methods of payment do you accept?*
-Payment by check or Square Cash are preferred, however we also accept online payment.
-
-----
-
-Thirdtext:
-
-----
-
 Formdescription: 
 
-#Send a Message
+#Friends & Inquiries
 
-If inquiring about working with us, please include as much detail as you can about your project, timeline, budget, and needs, so we can thoughtfully reply. We try our best to reply to every message within two–three days.
+If you would like to work with us, please enter your name and email in the form below to receive the Getting Started guide. If you want to say hello, please send us an email at (email: hello@bypine.co text: hello@bypine.co). We try our best to reply to every message within two–three days.
 
 ----
 
@@ -60,7 +32,7 @@ Newsletterdescription:
 
 #Join the Forest
 
-Our letter is written exclusively for you, and it's all about designing a life full of the things that bring you joy. We particularly focus on adventure, reflection, and tools for a better life and business. Join the forest and receive a free guide to our favorite tools!
+Follow along for updates and the latest news, always paperless.
 
 ----
 

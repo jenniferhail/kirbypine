@@ -4,8 +4,8 @@
 <form action="//bypine.us10.list-manage.com/subscribe/post?u=90363b999232548e9532004b0&amp;id=874c472f49" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 		<div class="mc-field-group one-third">
-			<label for="mce-FNAME">Name </label>
-			<input type="text" value="" placeholder="Name" name="FNAME" class="" id="mce-FNAME">
+			<label for="mce-FNAME">First Name </label>
+			<input type="text" value="" placeholder="First Name" name="FNAME" class="" id="mce-FNAME">
 		</div>
 		<div class="mc-field-group one-third">
 			<label for="mce-EMAIL">Email </label>

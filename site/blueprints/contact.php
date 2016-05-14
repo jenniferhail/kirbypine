@@ -10,14 +10,8 @@ fields:
   description:
     label: Page Description
     type:  text 
-  firstText:
-    label: Section
-    type:  textarea
-  secondText:
-    label: Section
-    type:  textarea
-  thirdText:
-    label: Section
+  text:
+    label: Text
     type:  textarea
   formDescription:
     label: Form

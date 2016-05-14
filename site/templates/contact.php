@@ -11,22 +11,15 @@
     <?php endif ?>
 
     <section>
-      <?php echo $page->firstText()->kirbytext() ?>
+      <?php echo $page->text()->kirbytext() ?>
     </section>
 
     <section>
         <?php echo $page->formDescription()->kirbytext() ?>
-        <?php snippet('form') ?>
+        <?php snippet('form-inquiry') ?>
     </section>    
 
-    <section>
-      <?php echo $page->secondText()->kirbytext() ?>
-    </section>
-
-    <section>
-      <?php echo $page->newsletterDescription()->kirbytext() ?>
-      <?php snippet('newsletter') ?>
-    </section>     
+    
 
   </main>
 

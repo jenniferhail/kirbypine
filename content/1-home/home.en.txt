@@ -6,16 +6,20 @@ Text:
 
 #Pine
 
-Design for authentic souls who yearn for a breath of fresh air in a world full of clutter. We believe in quality over quantity, living adventurously, and creating beautiful designs that last. 
+A design studio for the everlasting, building thoughtful brands and experiences for authentic businesses. 
+
+Because we believe in designing a life filled with joy, love, adventure, and passion—we choose less. We endeavor to work and live sustainably to care for the environment. And we enjoy thoughtfully selecting the belongings that enter our homes and become treasured staples, because we believe that every item should be our favorite. 
+
+In everything we do, we strive to create quality over quantity, we pledge to live adventurously, and we promise to create designs that last.
 
 ----
 
-Description: We specialize in design and marketing for small, adventurous businesses. Peruse our best work.
+Description: A design studio for authentic businesses. Branding, art direction, and website design.
 
 ----
 
-NewsletterDescription:
+Newsletterdescription: 
 
 #Join the Forest
 
-Our letter is written exclusively for you, and it's all about designing a life full of the things that bring you joy. We particularly focus on adventure, reflection, and tools for a better life and business. Join the forest and receive a free guide to our favorite tools!
+Follow along for updates and the latest news, always paperless.
