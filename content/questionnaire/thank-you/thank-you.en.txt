@@ -1,0 +1,15 @@
+Title: Thank You
+
+----
+
+Text: 
+
+<section markdown="1">
+
+#Thank You
+
+Now that you've completed and submitted your project planner, I would love to meet with you over coffee (or your favorite hot beverage). If you don't happen to live near Louisville, we can chat on Skype.
+
+Please visit (link: http://www.calendly.com/bypine/coffee text: my calendar) to schedule a time that works best for you. We will discuss your ideas, vision, and goals. These meetings usually last around 30 minutes. I look forward to meeting you!
+
+</section>

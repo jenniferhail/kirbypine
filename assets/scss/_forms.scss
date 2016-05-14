@@ -4,10 +4,32 @@ form label {
 .contactform {
 	position: relative;
 }
+.services {
+	border-bottom: $border;
+	padding-bottom: 12px;
+	p {
+		margin-top: 2em;
+		text-align: center;
+	}
+	input[type="checkbox"] {
+		margin-bottom: 1em;
+	}
+}
 .submit {
-	position: absolute;
-	bottom: 0;
-	right: 0;
+	margin-top: 2em;
+}
+#mce-responses {
+	padding-top: 2em;
+	color: $links;
+}
+#mc_embed_signup div.mce_inline_error {
+    margin: 0 0 1em 0;
+    padding: 10px 10px!important;
+    background-color: #fff!important;
+    font-weight: bold;
+    z-index: 1;
+    color: #6B0505!important;
+    font-style: italic!important;
 }
 
 /* See _mixins.scss for more on this method for handling HTML5 elements */
@@ -24,7 +46,7 @@ textarea {
 textarea:focus {
 	color: $text;
 }
-input[type=submit] {
+input[type=submit], button {
 	-webkit-appearance: none;
 	width: 100%;
 	line-height: 39px;
@@ -42,6 +64,7 @@ select {
 	border: $border;
 	background-color: transparent;
 	line-height: 39px;
+	height: 41px;
 }
 
 /* Placeholders */

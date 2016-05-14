@@ -10,21 +10,7 @@
     </section>
     <?php endif ?>
 
-    <section>
-      <?php echo $page->firstText()->kirbytext() ?>
-    </section>
-
-    <section>
-      <?php echo $page->secondText()->kirbytext() ?>
-    </section> 
-
-    <section>
-      <?php echo $page->thirdText()->kirbytext() ?>
-    </section>
-
-    <section>
-      <?php echo $page->fourthText()->kirbytext() ?>
-    </section>        
+    <?php echo $page->text()->kirbytext() ?>    
 
   </main>
 

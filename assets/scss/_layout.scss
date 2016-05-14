@@ -54,15 +54,17 @@ article, section {
 .two-thirds {
 	@include span(8 of 12);
 }
-
 .one-half {
 	@include span(6 of 12);
-	&:nth-child(2n) {
-		@include span(6 of 12 last);
-	}
+}
+.project-images .one-half:nth-child(2n) {
+	@include span(6 of 12 last);
 }
 .one-half-last {
 	@include span(6 of 12 last);
+}
+.full {
+	@include span(12 of 12 last);
 }
 .portrait {
 	width: $portrait;
@@ -77,7 +79,12 @@ article, section {
 	right: 0;
 }
 /* Columns */
-
+.checkbox-columns {
+	@include span(1 of 3);
+	&:last-child {
+		@include span(1 of 3 last);
+	}
+}
 .columns {
   margin-right: -2rem;
 }
@@ -117,7 +124,7 @@ article, section {
 	.one-third-last, 
 	.two-thirds,
 	.one-half,
-	.one-half:nth-child(2n) {
+	.project-images .one-half:nth-child(2n) {
 		@include span(12);
 	} 
 	/* Columns */

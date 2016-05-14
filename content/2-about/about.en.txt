@@ -2,55 +2,51 @@ Title: About
 
 ----
 
-Firsttext: 
+Text: 
+
+<section markdown="1">
 
 #Welcome to Pine
 
-At the heartwood* of our studio lies the desire to bring the passionate ideas of creative entrepreneurs to life. We believe in the power of beautiful photography, compelling words, good design, and authentic friendship. 
+Pine is a design studio founded by designer, Jennifer Hail, established in 2015. The studio is built on a foundation of minimalism, celebrating fewer, intentional details and a deep understanding of their clients' visions. Working with brands and businesses led by authentic, creative individuals, Pine aims to elevate their positioning through refined design and art direction.
 
-We long to partner with people who value the short life we’ve been given by spending it pursuing meaningful, fulfilling work. They live adventurously, and love fiercely. They choose less when the world yells more.
+</section>
 
-*(link: http://www.arborday.org/trees/ringstreenatomy.cfm text: Anatomy of a Tree)
-
-----
-
-Secondtext: 
+<section markdown="1">
 
 #Services
 
-As a design studio, we prefer to work with businesses who desire a full range of services. 
+It all starts with purpose. Once we discover your why, everything else makes sense. Working with clients who infuse their work with heart pushes us to create designs that will last (because your heart is the center of your beautifully designed business).
 
-(link: /contact text: Send us a message) if you're interested in working together, or view our pricing for (link: /contact/pine-pricing.pdf text: design services) and (link: /contact/pine-pricing-calligraphy.pdf text: calligraphy).
+(link: /contact text: Visit our contact page) if you're interested in working together.
 
-(columns...) 
+<div class="one-third" markdown="1">
 
-####Graphic Design
-Identity
+Identity Design
 Brand Strategy
 Print Collateral
+
+</div>
+
+<div class="one-third" markdown="1">
+
 Website Design
+Packaging
+Art Direction
 
-++++
+</div>
 
-####Art Direction
-Brand & Business Consulting
-Styled Shoots
-Content Development
-Social Media
+<div class="one-third-last" markdown="1">
 
-++++
-
-####Marketing
-Strategy
+Website Development
 Content Creation
 Social Media
-Public Relations
 
-(...columns)
+</div>
 
-----
+</section>
 
-Thirdtext: 
+<section markdown="1">
 
 #Founder & Designer, Jennifer Hail
 
@@ -58,15 +54,7 @@ Jennifer is a graphic designer who works to create minimal, beautiful solutions 
 
 She is inspired by slow living and purposeful past times, often dabbling in a selection of hobbies including calligraphy, coffee-making, and curating. Jennifer believes that less is always more, and encourages everyone to never stop learning. When she isn't on the computer designing or reading articles, you can find her entertaining her fluffy, white cat Theodore and spending time with her fiancé and family.
 
-----
-
-Fourthtext: 
-
-#Marketing & Strategy, KaSandra Mitchell
-
-KaSandra is a talented content creator who works to build mutually beneficial and trusting relationships between organizations and their audiences through media and strategic communications.
-
-She is an avid adventurer—recently spending four months living and working in a manor house in the English countryside—as well as a passionate health and fitness advocate, teaching workout classes and perfecting her headstand in her free time. KaSandra is forging her own path and she is excited to help you plan and map out your own.
+</section>
 
 ----
 

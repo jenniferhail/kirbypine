@@ -83,13 +83,15 @@ hr {
 #{$all-text-inputs}, 
 textarea,
 select,
+option,
 input[type=submit] {
-	font-family: $italic;
-	font-style: italic;
-	font-size: 16px;
-	font-weight: 400;
-	letter-spacing: 0.5px;
 	margin-top: 2em;
+	color: $text;
+	font-family: $italic;
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: 300;
+	letter-spacing: 0.25px;	
 }
 
 /* Text elements */

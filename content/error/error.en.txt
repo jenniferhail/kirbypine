@@ -2,4 +2,10 @@ Title: Error
 
 ----
 
-Text: The page has not been found.
+Text: 
+
+<section markdown="1">
+
+The page has not been found.
+
+</section>

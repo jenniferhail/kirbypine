@@ -1,16 +1,19 @@
 /* Home + Portfolio */
 
-.portfolio-ctn {
-	padding-bottom: 27%;
-}
+// .portfolio-ctn {
+// 	padding-bottom: 27%;
+// }
 .portfolio {
-	min-height: 1200px;
+	// min-height: 1200px;
 	@include clearfix();
 }
 .project {
-	position: absolute;
-	margin-bottom: 2em;
+	// position: absolute;
+	margin-bottom: 3em;
 	height: auto;
+	font-style: italic;
+	font-size: 0.9em;
+	letter-spacing: 0.4px;
 	a {
 		position: absolute;
 		z-index: 20;
@@ -20,40 +23,65 @@
 		right: 0;
 	}
 	&:first-child {
-		right: 0;
-		top: 0;
-		z-index: 1;
-		width: $landscape;
+		// right: 0;
+		// top: 0;
+		// z-index: 1;
+		// width: $portrait;
+		@include span(1 of 2);
 	}
 	&:nth-child(2n) {
-		left: 0;
-		top: 12%;
-		z-index: 3;
-		width: $portrait;
+		// left: 0;
+		// top: 12%;
+		// z-index: 3;
+		// width: $portrait;
+		@include span(1 of 2 last);
 	}
 	&:nth-child(3n) {
-		right: 0;
-		top: 61%;
-		z-index: 4;
-		width: $portrait;
+		// right: 0;
+		// top: 24%;
+		// z-index: 4;
+		// width: $portrait;
+		@include span(12 last);
+	}
+	&:nth-child(4n) {
+		// right: 0;
+		// top: 48%;
+		// z-index: 4;
+		// width: $portrait;
+		@include span(1 of 2);
+	}
+	&:nth-child(5n) {
+		// right: 0;
+		// top: 60%;
+		// z-index: 4;
+		// width: $portrait;
+		@include span(1 of 2 last);
+	}
+	&:nth-child(6n) {
+		// right: 0;
+		// top: 72%;
+		// z-index: 4;
+		// width: $portrait;
+		@include span(12 last);
 	}
 	&:last-child {
-		left: 0;
-		top: 83%;
-		z-index: 2;
-		width: $landscape;
+		// left: 0;
+		// top: 84%;
+		// z-index: 2;
+		// width: $portrait;
+		@include span(1 of 2 last);
 	}
 	&:hover {
 		z-index: 100;
+	}
+	&:hover img {
+		opacity: $opacity;
 	}
 	img {
 		opacity: 1;
 		-webkit-transition: opacity 0.25s linear;
 		-moz-transition: opacity 0.25s linear;
 		transition: opacity 0.25s linear;
-	}
-	img:hover {
-		opacity: $opacity;
 	}
 }
 
