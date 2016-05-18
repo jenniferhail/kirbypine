@@ -25,4 +25,6 @@ Thumbs.db
 *.esproj
 *.sass-cache
 *.ruby-version
+*.pub
+ida_dsa.pub
 node_modules
