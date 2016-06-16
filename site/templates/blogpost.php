@@ -13,10 +13,6 @@
         <span class="back"><a href="<?php echo url('blog') ?>">Back</a></span>
       </article>
 
-      <div id="comments">
-        <?php snippet('disqus', array('disqus_shortname' => 'pine', 'disqus_developer' => true)) ?>
-      </div>
-
     </section>      
 
   </main>
