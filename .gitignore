@@ -26,5 +26,6 @@ Thumbs.db
 *.sass-cache
 *.ruby-version
 *.pub
+*.ssh
 ida_dsa.pub
 node_modules
