@@ -15,11 +15,8 @@
     </section>
 
     <section>
-        <?php echo $page->formDescription()->kirbytext() ?>
-        <?php snippet('form-inquiry') ?>
+      <?php echo $page->formDescription()->kirbytext() ?>
     </section>    
-
-    
 
   </main>
 
