@@ -1,6 +1,7 @@
 nav {
 	ul#links {
 		@include span(3 of 12);
+		z-index: 2;
 	}
 	ul#description {
 		@include span(9 of 12 last);
@@ -33,11 +34,21 @@ nav {
 		}			
 	}
 }
+.white-overlay {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(255,255,255,0.9);
+	z-index: 1;
+	display: none;
+}
 #fixed-left-text {
 	position: absolute;
 	top: 15em;
 	left: 1em;
-	z-index: 9999999;
+	z-index: 3;
 	width: auto;
 	height: auto;
 }
@@ -54,11 +65,12 @@ nav {
 	font-size: 16px;
 	font-weight: 400;
 	letter-spacing: 0.5px;
+	z-index: 3;
 }
 #menuopen {
-	// padding: 6em 12em 2em;
+	display: none;
 	position: fixed;
-	background: rgba(255,255,255,0.9);
+	z-index: 2;
 }
 .hide {
 	display: none;

@@ -18,28 +18,39 @@
 
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <script type="text/javascript"> 
+
+    $(document).ready(function(){
+      //Loading
+      $(".main").hide(0).delay(200).fadeIn(500);
+      $("#fixed-left-text").hide(0).delay(500).fadeIn(500);
+    });
+
      $(document).ready(function() {
-        $('#menubtn').click(function(m) {
+        //Menu
+        $('#menubtn, .white-overlay').click(function(m) {
           m.preventDefault();
           m.stopPropagation();
-          $('#menuopen').fadeToggle();
+          $('#menuopen').fadeToggle("slow");
+          $(".white-overlay").fadeToggle("slow");
           return false;
          });
         $('#menuopen').click(function(m) {
           m.stopPropagation();
         });
      }); 
+
   </script>
   
 </head>
 <body>
 
 <div class="wrap">
+  <header id="menuopen" class="header cf" role="banner">
+    <?php snippet('menu') ?>
+  </header>
   <div id="fixed-left-text">
     <div class="fixed-left-text">
       <a href="#" id="menubtn"><span>Menu —</span></a>
     </div>
   </div>
-  <header id="menuopen" class="header cf" role="banner" style="display: none;">
-    <?php snippet('menu') ?>
-  </header>
+  <div class="white-overlay"></div>
