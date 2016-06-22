@@ -1,8 +1,8 @@
 /* Home + Portfolio */
 
-// .portfolio-ctn {
-// 	padding-bottom: 27%;
-// }
+ // .portfolio-ctn {
+ // 	padding-bottom: 27%;
+ // }
 .portfolio {
 	// min-height: 1200px;
 	@include clearfix();
@@ -16,7 +16,7 @@
 	letter-spacing: 0.4px;
 	a {
 		position: absolute;
-		z-index: 20;
+		z-index: 1;
 		top: 0;
 		bottom: 0;
 		left: 0;
@@ -71,9 +71,9 @@
 		// width: $portrait;
 		@include span(1 of 2 last);
 	}
-	&:hover {
-		z-index: 100;
-	}
+	// &:hover {
+	// 	z-index: 100;
+	// }
 	&:hover img {
 		opacity: $opacity;
 	}
