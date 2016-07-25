@@ -50,7 +50,7 @@
   </header>
   <div id="fixed-left-text">
     <div class="fixed-left-text">
-      <a href="#" id="menubtn"><span>Menu —</span></a>
+      <a href="#" id="menubtn"><span>—</span></a>
     </div>
   </div>
   <div class="white-overlay"></div>
