@@ -1,10 +1,11 @@
 body, input, textarea {
 	color: $text;
 	font-family: $italic;
-	font-size: 16px;
-	line-height: 26px;
+	font-size: 14px;
+	line-height: 24px;
 	font-weight: 300;
 	letter-spacing: 0.25px;
+	-webkit-font-smoothing: antialiased;
 }
 
 /* Navigation */
@@ -22,13 +23,12 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: $italic;
 }
 h1 {
-	font-family: $sans-serif;
-	font-size: 12px;
-	line-height: 20px;
+	font-family: $serif;
+	font-size: 20px;
+	line-height: 30px;
 	font-weight: 400;
-	text-transform: uppercase;
-	letter-spacing: 5px;
-	margin-bottom: 2.5em;
+	letter-spacing: 0.5px;
+	margin-bottom: 1em;
 }
 h2 {
 	
