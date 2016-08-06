@@ -18,12 +18,11 @@ nav {
 				display: block;
 				text-decoration: none;
 				cursor: pointer;
-				font-family: $italic;
-				font-style: italic;
-				font-size: 16px;
-				line-height: 30px;
+				font-family: $serif;
+				font-size: 20px;
+				line-height: 36px;
 				font-weight: 400;
-				letter-spacing: 0.25px;
+				letter-spacing: 0.5px;
 			}
 		}
 		&:after {
