@@ -1,13 +1,14 @@
-<?php snippet('header') ?>
+<?php snippet( 'header') ?>
+
 
   <main class="main blog" role="main">
 
     <section class="content blogarticle">
 
       <article>
-        <h1><?php echo $page->title()->html() ?></h1>
+        <h1><?= $post->title()->html() ?></h1>
         <time datetime="<?php echo $page->date('c') ?>" pubdate="pubdate"><?php echo $page->date('F jS, Y') ?></time>
-        <?php echo $page->text()->kirbytext() ?>       
+        <?= $post->text()->kirbytext() ?>       
       </article>   
 
       <article>

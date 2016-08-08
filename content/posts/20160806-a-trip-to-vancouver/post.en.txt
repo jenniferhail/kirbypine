@@ -1,12 +1,12 @@
-Title: A Trip to Vancouver
+Title: A Summer in Vancouver
 
 ----
 
-Date: 12/13/2015
+Date: 08/06/2016
 
 ----
 
-Category: Travel, Adventure
+Category: travel
 
 ----
 
@@ -41,3 +41,13 @@ Vix quaequé nominavi referrentùr et. Ex vîdît rëprîmîque quo, tântas gra
 </div>
 
 ----
+
+Author: jennifer
+
+----
+
+Coverimage: 
+
+----
+
+Tags: 

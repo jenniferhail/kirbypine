@@ -1,12 +1,16 @@
 <?php snippet('header') ?>
 
-<main class="main" role="main">
+<main class="main blog" role="main">
+
+    <section class="project-details">
+      <h1><?php echo date('Y') ?></h1>
+	</section>
 
 	<section>
 		
-		<?php foreach($page->children()->visible()->flip() as $article): ?>
+		<?php foreach($page->children()->filterBy('year', '2016')->visible()->flip() as $article): ?>
 			<h1><a href="<?php echo $article->url() ?>"><?php echo $article->title()->html() ?></a></h1>
-			<time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate" style="display: none;"><?php echo $article->date('F d, Y') ?></time>
+			<time datetime="<?php echo $article->date('c') ?>" pubdate="pubdate"><?php echo $article->date('F jS') ?></time>
 		<?php endforeach ?>
 		
 	</section>

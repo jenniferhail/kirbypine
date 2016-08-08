@@ -35,6 +35,12 @@ section {
 article, section {
 	margin-bottom: 6em;
 }
+article {
+	@include clearfix;
+}
+.blog section {
+	margin-bottom: 0em;
+}
 .heading {
 	@include span(3);
 }

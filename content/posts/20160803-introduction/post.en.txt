@@ -1,12 +1,12 @@
-Title: Another Blog Post
+Title: Introduction
 
 ----
 
-Date: 12/13/2015
+Date: 08/03/2016
 
 ----
 
-Category: Design
+Category: 
 
 ----
 
@@ -17,3 +17,13 @@ Réqùë èxplïcàrï duô ne, cûm pôsse scaévola în. Latiné tîbïqûé v
 Vix quaequé nominavi referrentùr et. Ex vîdît rëprîmîque quo, tântas graecô prœprïae duô at, in vèlït splêndïdé hàs. Te duo omïttam proprîâé, iûsto iriure delicata sit et. Ei vix persîus nùmqùam àntîopam, àtqui detracto çu vel, àt cùm pùtént délénîtî vertèrèm. His eros âssûm dôctûs eà. Integre ullamcôrper cû has, no seà âdœléscéns instruçtïor.
 
 ----
+
+Author: Jennifer
+
+----
+
+Coverimage: 
+
+----
+
+Tags: 
