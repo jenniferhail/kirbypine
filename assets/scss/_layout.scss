@@ -123,6 +123,9 @@ article {
   	section {
 		@include span(12);
 	}
+	.blog section {
+		margin-bottom: 6em;
+	}
 	.one-third, 
 	.one-third-last, 
 	.two-thirds,
