@@ -12,7 +12,7 @@
       </article>   
 
       <article>
-        <span class="back"><a href="<?php echo url('blog') ?>">Back</a></span>
+        <span class="back"><a href="<?php echo url('archive') ?>">Back</a></span>
       </article>
 
     </section>      
