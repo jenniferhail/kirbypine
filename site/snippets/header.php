@@ -21,23 +21,25 @@
 
     $(document).ready(function(){
       //Loading
-      $(".main").hide(0).delay(200).fadeIn(500);
-      $("#fixed-left-text").hide(0).delay(500).fadeIn(500);
-    });
+      $('.main').hide(0).delay(200).fadeIn(500);
+      $('#fixed-left-text').hide(0).delay(500).fadeIn(500);
+      //Menu
+      // $('#menubtn').click(function() {
+      //   this.classList.toggle('active');
+      // });
+      $('#menubtn, .white-overlay').click(function(m) {
+        m.preventDefault();
+        m.stopPropagation();
+        $('#menuopen').fadeToggle('slow');
+        $('.white-overlay').fadeToggle('slow');
+        return false;
+       });
+      $('#menuopen').click(function(m) {
+        m.stopPropagation();
+      });
+    }); 
 
-     $(document).ready(function() {
-        //Menu
-        $('#menubtn, .white-overlay').click(function(m) {
-          m.preventDefault();
-          m.stopPropagation();
-          $('#menuopen').fadeToggle("slow");
-          $(".white-overlay").fadeToggle("slow");
-          return false;
-         });
-        $('#menuopen').click(function(m) {
-          m.stopPropagation();
-        });
-     }); 
+
 
   </script>
 
@@ -53,7 +55,7 @@
   </header>
   <div id="fixed-left-text">
     <div class="fixed-left-text">
-      <a href="#" id="menubtn"><span>—</span></a>
+      <a href="#" id="menubtn"><span>Menu +</span></a>
     </div>
   </div>
   <div class="white-overlay"></div>
