@@ -40,6 +40,9 @@
      }); 
 
   </script>
+
+  <meta name="google-site-verification" content="XWyimz6UAXNEHOOICT8fGT_ndp2uUtBgGu32Xq9xID8" />
+  <meta name="msvalidate.01" content="96A307FBE285A66BA88BE3485A033AB0" />
   
 </head>
 <body>
