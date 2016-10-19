@@ -21,10 +21,13 @@ nav {
 }
 header {
 	position: fixed;
+	z-index: 100;
 	@include span(12);
+	padding-top: 1.5em;
+	padding: 1.5em 1.5em 0;
 }
 main {
-	margin-top: 6em;
+	padding-top: 12em;
 }
 section.banner {
 	padding: 0;
@@ -37,9 +40,6 @@ article, section {
 }
 article {
 	@include clearfix;
-}
-.blog section {
-	margin-bottom: 0em;
 }
 .heading {
 	@include span(3);

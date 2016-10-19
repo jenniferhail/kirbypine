@@ -105,6 +105,11 @@ article {
 		display: block;
 	}
 }
+.blog-post {
+	margin-bottom: 6em;
+	border-bottom: $border;
+	padding-bottom: 3em
+}
 .readmore,
 .back {
 	text-align: right;

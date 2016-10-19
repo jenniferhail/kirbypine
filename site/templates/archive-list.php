@@ -7,19 +7,20 @@
     <?php $allPosts = $pages->get('posts')
       ->children()
       ->visible()
-      ->flip() ?>
+      ->filter(function($child) {
+         return $child->date('Y') === date('Y');
+      })->flip() ?>
 
-<!--     <section class="project-details">
-      <h1><a href="">View Archive</a></h1>
-    </section> -->
+    <section class="project-details">
+      <h1><?php echo date('Y') ?></h1>
+    </section>
 
     <?php foreach ($allPosts as $post): ?>
       
       <!-- Display post content -->
-      <section class="blog-post">
+      <section>
         <h1><a href="<?php echo $post->url() ?>"><?php echo $post->title()->html() ?></a></h1>
-        <time datetime="<?php echo $post->date('c') ?>" pubdate="pubdate"><?php echo $post->date('F jS, Y') ?></time>
-        <?= $post->text()->kirbytext() ?>
+        <time datetime="<?php echo $post->date('c') ?>" pubdate="pubdate"><?php echo $post->date('F jS') ?></time>
       </section>
 
     <?php endforeach ?>

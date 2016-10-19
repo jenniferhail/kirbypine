@@ -1,20 +1,33 @@
-.logo img {
-	max-width: 115px;
+#logo {
+	@include span (4 of 12);
+
+}
+nav {
+	@include span (8 of 12 last);
+}
+
+.logo {
+	width: 60px;
 	height: auto;
 	margin-bottom: 0;
+	a:hover {
+		color: none;
+	}
+}
+path {
+	-webkit-transition: fill 0.5s linear;
+	-moz-transition: fill 0.5s linear;
+	transition: fill 0.5s linear;
+}
+.logo path {
+	fill: #bbb;
+}
+.logo:hover path {
+	fill: $hover;
 }
 
 @media screen and (min-width: 0px) and (max-width: 600px) {
-	nav {
-		position: relative;
-		top: 50%;
-		-webkit-transform: translateY(-50px);
-		-ms-transform: translateY(-50px);
-		transform: translateY(-50px);
-		padding-top: 0;
-		ul li {
-			padding: 0.5em 0;
-			text-align: center;
-		}
+	header {
+		padding: 1.5em 2.5% 0;
 	}
 }

@@ -1,22 +1,22 @@
-Title: Portfolio
+Title: Design
 
 ----
 
 Text: 
 
-#Pine
+#Design for the Everlasting
 
-A graphic design studio for the everlasting, building thoughtful brands, websites, and experiences for authentic businesses. 
+Pine is a graphic design studio for the everlasting. We are passionate about helping you silence the overwhelm, frustration, and chaos to find the clarity that will make your business vision a reality&mdash;and one that lasts.
 
-Because we believe in designing a life filled with joy, love, adventure, and passion—we choose less. We endeavor to work and live sustainably to care for the environment. And we enjoy thoughtfully selecting the belongings that enter our homes and become treasured staples, because we believe that every item should be our favorite. 
+We research, plan, and design thoughtful brands and websites for small creative businesses. Our mission is to understand you and your business as if it were our own, so designing for you becomes as fluent and natural as speaking a native language.
 
-In everything we do, we strive to create quality over quantity, we pledge to live adventurously, and we promise to create designs that last.
+Working with Pine is like having a best friend as your graphic designer. Welcome to our forest.
 
 ----
 
 Portfolio: 
 
-#Selected Work
+#Brands & Websites with Clarity
 
 ----
 
@@ -28,4 +28,4 @@ Newsletterdescription:
 
 #Join the Forest
 
-Follow along for updates and the latest news, always paperless.
+Sign up to receive our always-paperless newsletter. It's written for creative business owners who value living and working with intention, so we can spend more time doing the things we love with our family and friends.

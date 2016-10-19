@@ -6,15 +6,21 @@ Text:
 
 <section markdown="1">
 
-#About
+#Thoughtful Design for Small Businesses
 
-Pine is a design studio founded by designer, Jennifer Hail, established in 2015. The studio is built on a foundation of minimalism, celebrating fewer, intentional details and a deep understanding of their clients' visions. Working with brands and businesses led by authentic, creative individuals, Pine aims to elevate their positioning through refined design and art direction.
+Pine is a graphic design studio founded in the fall of 2015 by Jennifer Hail, located in Louisville, Kentucky.
+
+We are here to listen to your heart, to invest in your success, and to help you create the business you are envisioning&mdash;with more freedom, more joy, and less stress. And we believe that a beautiful brand can make that happen.  
+
+We work with you&mdash;makers, photographers, coffee shop owners, creatives&mdash;to elevate your business positioning through refined design and art direction. Each design decision is carefully considered to ensure that we are working with your goals in mind.
+
+If you're ready to invest in rebranding your business, (link: /contact text: we would love to hear from you). 
 
 </section>
 
 <section markdown="1">
 
-#Services
+#Our Services
 
 It all starts with purpose. Once we discover your why, everything else makes sense. Working with clients who infuse their work with heart pushes us to create designs that will last (because your heart is the center of your beautifully designed business).
 
