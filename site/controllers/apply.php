@@ -18,7 +18,7 @@ return function($site, $pages, $page) {
         ]
     ]);
 
-    if ($form->successful()) go('the-forest/thank-you');
+    if ($form->successful()) go('the-forest/apply/thank-you');
 
     return compact('form');
 };
