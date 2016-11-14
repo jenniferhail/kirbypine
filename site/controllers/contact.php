@@ -2,20 +2,23 @@
 
 return function($site, $pages, $page) {
 
-	$form = uniform('contact-form', array(
-		'required' => array('_from' => 'email'),
-			'actions'  => array(
-				array(
-					'_action' => 'email',
-					'to'      => 'hello@bypine.co',
-					'subject' =>  'New Inquiry!',
-					'sender'  => 'admin@bypine.co',
-				)
-			)
-		)
-	);
+    $form = uniform('contact-form', [
+        'required' => [
+            'fname'  => '',
+            'lname'  => '',
+            '_from' => 'email'
+        ],
+        'actions' => [
+            [
+                '_action' => 'email',
+                'to'      => 'hello@bypine.co',
+                'sender'  => 'jennifer.hail08@gmail.com',
+                'subject' => 'New Inquiry!'
+            ]
+        ]
+    ]);
 
-	if ($form->successful()) go('contact/thank-you');
+    if ($form->successful()) go('contact/thank-you');
 
-   return compact('form');
+    return compact('form');
 };

@@ -2,20 +2,23 @@
 
 return function($site, $pages, $page) {
 
-	$form = uniform('forest-form', array(
-		'required' => array('_from' => 'email'),
-			'actions'  => array(
-				array(
-					'_action' => 'email',
-					'to'      => 'hello@bypine.co',
-					'subject' =>  'New Forest Member Application!',
-					'sender'  => 'admin@bypine.co',
-				)
-			)
-		)
-	);
+    $form = uniform('forest-form', [
+        'required' => [
+            'fname'  => '',
+            'lname'  => '',
+            '_from' => 'email'
+        ],
+        'actions' => [
+            [
+                '_action' => 'email',
+                'to'      => 'hello@bypine.co',
+                'sender'  => 'jennifer.hail08@gmail.com',
+                'subject' => 'New Forest Member Application!'
+            ]
+        ]
+    ]);
 
-	if ($form->successful()) go('the-forest/thank-you');
+    if ($form->successful()) go('the-forest/thank-you');
 
-   return compact('form');
+    return compact('form');
 };

@@ -8,13 +8,9 @@ Description: We will reply to your message very soon!
 
 Text: 
 
-<section markdown="1">
-
 #Thank You
 
 
 Hi! Thank you so much for your interest in working with me. I can't wait to hear more about your business and your design needs. I will reply to your message shortly. 
 
 Until then, please say hello on (link: http://www.instagram.com/bypine text: Instagram). I would love to see what you're up to. If you're interested in joining The Forest, our community for creative entrepreneurs, you can read more about that (link: /the-forest text: here).
-
-</section>
