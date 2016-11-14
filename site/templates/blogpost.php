@@ -2,7 +2,7 @@
 
   <main class="main blog" role="main">
 
-    <section class="content blogarticle">
+    <section class="content blogarticle text">
 
       <article>
         <h1><?php echo $page->title()->html() ?></h1>

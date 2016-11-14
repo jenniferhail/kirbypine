@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <title><?php echo $site->title()->html() ?> – <?php echo $page->title()->html() ?></title>
+  <title><?php echo $site->title()->html() ?> – <?php echo $page->description()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
@@ -31,9 +31,3 @@
     </div>
     <?php snippet('menu') ?>
   </header>
-  <div id="fixed-left-text">
-    <div class="fixed-left-text">
-      <a href="#" id="menubtn"><span>Menu +</span></a>
-    </div>
-  </div>
-  <div class="white-overlay"></div>

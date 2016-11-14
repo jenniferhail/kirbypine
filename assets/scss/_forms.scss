@@ -6,14 +6,22 @@ form label {
 }
 .services {
 	border-bottom: $border;
-	padding-bottom: 12px;
+	padding: 0 10px 12px;
 	p {
 		margin-top: 2em;
-		text-align: center;
+		text-align: left;
+		color: $text;
+		font-size: 14px;
+		line-height: 26px;
+		font-weight: 300;
+		letter-spacing: 0.25px;	
 	}
 	input[type="checkbox"] {
 		margin-bottom: 1em;
 	}
+}
+.checkbox-columns {
+	font-size: 14px;
 }
 .submit {
 	margin-top: 2em;
@@ -39,7 +47,7 @@ textarea {
 	border-bottom: $border;
 	padding: 6px 10px;
 	line-height: 28px;
-	text-align: center;
+	text-align: left;
 	-webkit-appearance: none;
 }
 #{$all-text-inputs-focus},
@@ -57,6 +65,22 @@ input[type=submit], button {
 	&:hover {
 		background-color: #b2b2b2;
 		color: $bg;
+	}
+}
+a.button {
+	-webkit-appearance: none;
+	width: 100%;
+	padding: 18px 25px;
+	color: $bg;
+	border: 1px solid white;
+	background-color: $darkgrey;
+	-webkit-transition: background-color 0.25s linear;
+	transition: background-color 0.25s linear;
+	&:hover {
+		padding: 18px 25px;
+		background-color: transparent;
+		border: $border;
+		color: $darkgrey;
 	}
 }
 select {

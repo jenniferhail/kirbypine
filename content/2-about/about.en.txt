@@ -2,19 +2,21 @@ Title: About
 
 ----
 
+Description: Learn more about us and what we do.
+
+----
+
 Text: 
 
 <section markdown="1">
 
 #Thoughtful Design for Small Businesses
 
-Pine is a graphic design studio founded in the fall of 2015 by Jennifer Hail, located in Louisville, Kentucky.
+I am here to listen to your heart, to invest in your success, and to help you create the business you are envisioning&mdash;with more freedom, more joy, and less stress. And I believe that a beautiful brand can make that happen. Plus lots of heart-to-hearts over coffee! (Because who doesn't love a great latte?) 
 
-We are here to listen to your heart, to invest in your success, and to help you create the business you are envisioning&mdash;with more freedom, more joy, and less stress. And we believe that a beautiful brand can make that happen.  
+I work with you&mdash;makers, photographers, coffee shop owners, creatives&mdash;to elevate your business positioning through thoughtful design and art direction. When each design decision is carefully considered, we ensure that your goals are being achieved.
 
-We work with you&mdash;makers, photographers, coffee shop owners, creatives&mdash;to elevate your business positioning through refined design and art direction. Each design decision is carefully considered to ensure that we are working with your goals in mind.
-
-If you're ready to invest in rebranding your business, (link: /contact text: we would love to hear from you). 
+If you're ready to invest in branding for your business, (link: /contact text: I would love to hear from you). 
 
 </section>
 
@@ -22,46 +24,54 @@ If you're ready to invest in rebranding your business, (link: /contact text: we 
 
 #Our Services
 
-It all starts with purpose. Once we discover your why, everything else makes sense. Working with clients who infuse their work with heart pushes us to create designs that will last (because your heart is the center of your beautifully designed business).
+Beautiful design can impact your business for the better. It can increase your income, eliminate the overwhelm, and free you from comparison. I would love to help you achieve all of this and more.
 
-(link: /contact text: Visit our contact page) if you're interested in working together.
+I believe that designing for your business is more than just sending you pretty files&mdash;it's the inevitable attracion of your ideal clients because our design decisions are based on research. It's giving you the confidence to know how you stand out in your industry. And it's creating a brand that clearly communicates your value, so you can stop questioning your prices.
+
+If working with me sounds like a great fit for you, please (link: /contact text: get in touch).
 
 <div class="one-third" markdown="1">
 
-Identity Design
+Branding
 Brand Strategy
-Print Collateral
+Website Design
 
 </div>
 
 <div class="one-third" markdown="1">
 
-Website Design
-Packaging
 Art Direction
+Packaging Design
+Website Development
 
 </div>
 
 <div class="one-third-last" markdown="1">
 
-Website Development
-Content Creation
-Social Media
-
 </div>
 
 </section>
 
+----
+
+Portraits:
+
+<div class="portrait" markdown="1">(image: Jennifer-Hail-Pine-Graphic-Design-Studio-Color-1.jpg)</div>
+
+<div class="portrait" markdown="1">(image: Jennifer-Hail-Pine-Graphic-Design-Studio-Color-2.jpg)</div>
+
+----
+
+Aboutme:  
+
 <section markdown="1">
 
 #Founder & Designer, Jennifer Hail
+
+Pine begain in the fall of 2015 by Jennifer Hail, located in Louisville, Kentucky.
 
 Jennifer is a graphic designer who works to create minimal, beautiful solutions for passionate creatives and makers. Her focus is to create a breath of fresh air in a world filled with clutter, through a simplified process that eliminates the overwhelm. Jennifer's knowledge of front-end web development and natural inclination to film photography allows her to offer a holistic approach to the needs of her clients.
 
 She is inspired by slow living and purposeful past times, often dabbling in a selection of hobbies including calligraphy, coffee-making, and curating. Jennifer believes that less is always more, and encourages everyone to never stop learning. When she isn't on the computer designing or reading articles, you can find her entertaining her fluffy, white cat Theodore and spending time with her fiancé and family.
 
 </section>
-
-----
-
-Description: Learn more about us and what we do.

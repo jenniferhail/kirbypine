@@ -2,8 +2,8 @@
   <?php foreach(page('home')->children()->visible() as $project): ?>
   <div class="project">
     <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
-      <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
-      <caption><?php echo $project->title()->html() ?></caption>
+      <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>">
+      <div class="caption"><p><?php echo $project->title()->html() ?></p></caption></div>
       <a href="<?php echo $project->url() ?>"></a>
     <?php endif ?>
   </div>

@@ -1,6 +1,7 @@
-<footer>
-
-</footer>
+	<footer id="footer">
+		<div id="footer-links" class="left"><?php echo $site->footer()->kirbytext() ?></div>
+		<div id="copyright" class="right"><p>&copy; 2015-<?php echo date("Y") ?> <?php echo $site->title()->html() ?>. All rights reserved. Louisville, KY.</p></div>
+	</footer>
 
 </div> <!-- End .wrap -->
 

@@ -9,7 +9,7 @@
       <?php echo $page->Year()->kirbytext() ?>
     </section>
 
-    <section>
+    <section class="project-text">
       <?php echo $page->Text()->kirbytext() ?>
     </section>    
 
@@ -21,9 +21,7 @@
     <?php endif ?>
 
     <section class="project-images">
-      <div class="seventyfive">
-        <?php echo $page->Photos()->kirbytext() ?>
-      </div>
+      <?php echo $page->Photos()->kirbytext() ?>
     </section>
 
   </main>

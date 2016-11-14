@@ -3,21 +3,20 @@ body {
 	margin: 0;
 	padding: 0;
 }
-main, footer {
-	background: $bg;
-}
-.wrap {
-	@include container();
-	width: 100%;
-	margin: 0 auto;
-}
 main,
-footer,
-nav {
-	width: 75%;
-	max-width: 1000px;
-	margin: 0 auto;
-	/* Add media queries here */
+footer {
+	@include span(12 of 12);
+}
+main {
+	padding-top: 12em;
+	@include clearfix;
+	min-height: 100%;
+	margin: 0 auto -35px;
+	&:after {
+		content: "";
+		display: block;
+		height: 35px;
+	}
 }
 header {
 	position: fixed;
@@ -25,15 +24,31 @@ header {
 	@include span(12);
 	padding-top: 1.5em;
 	padding: 1.5em 1.5em 0;
+	min-height: 30px;
 }
-main {
-	padding-top: 12em;
+footer {
+	height: 35px;
+	@include clearfix;
+}
+.wrap {
+	@include container();
+	width: 100%;
+	margin: 0 auto;
+	height: 100%;
+}
+footer,
+nav {
+	margin: 0 auto;
 }
 section.banner {
-	padding: 0;
+	@include span(8 of 12);
 }
 section {
-	@include span(3 of 4 last);
+	@include span(4 of 4);
+	&.text {
+		@include prefix(4 of 12);
+		@include suffix(2 of 12);
+	}
 }
 article, section {
 	margin-bottom: 6em;
@@ -113,15 +128,22 @@ article {
 }
 @media screen and (min-width: 0px) and (max-width: 600px) {
   	main,
-  	footer,
   	nav {
   		width: 95%;
   	}
   	main {
   		margin-top: 0;
   	}
-  	section {
-		@include span(12);
+  	section,
+  	section.text,
+  	section.banner {
+  		float: none !important;
+  		width: 95%;
+  		margin-left: auto;
+  		margin-right: auto !important;
+		@include span(95%);
+		@include prefix(0 of 12);
+		@include suffix(0 of 12);
 	}
 	.blog section {
 		margin-bottom: 2em;

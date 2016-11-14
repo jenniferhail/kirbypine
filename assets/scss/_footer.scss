@@ -1,5 +1,15 @@
 footer {
-	padding: 0 0 4em;
+	padding: 0 2em 1em;
+	font-size: 0.6em;
+	letter-spacing: 0.85px;
+	font-family: $sans-serif;
+	font-weight: 400;
+	#footer-links {
+		@include span(6 of 12);
+	}
+	#copyright {
+		@include span(6 of 12 last);
+	}
 	ul {
 		list-style: none;
 		margin: 0;
@@ -10,4 +20,22 @@ footer {
 			margin-right: 2.5em;
 		}
 	}
+	p {
+		text-align: right;
+	}
+}
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  	footer {
+  		width: 95%;
+  		margin-top: 6em;
+  		#footer-links,
+  		#copyright {
+  			@include span(12 of 12);
+  		}
+  		#footer-links,
+  		p {
+  			text-align: center;
+  		}
+  	}
 }

@@ -2,15 +2,17 @@
 
   <main class="main" role="main">
 
-    <?php if($image = $page->image()): ?>
+<!--     <?php if($image = $page->image()): ?>
     <section>
       <figure>
         <img src="<?php echo $image->url() ?>" alt="<?php echo html($image->title()) ?>">
       </figure>
     </section>
-    <?php endif ?>
+    <?php endif ?> -->
 
-    <?php echo $page->text()->kirbytext() ?>    
+    <section class="text">
+      <?php echo $page->text()->kirbytext() ?>
+    </section>
 
   </main>
 

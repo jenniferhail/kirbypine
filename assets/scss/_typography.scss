@@ -205,10 +205,11 @@ a {
 	}
 }
 
-// main p a {
-// 	border-bottom: $border;
-// 	padding-bottom: 3px;
-// }
+main p a:hover,
+footer a:hover {
+	border-bottom: 1px solid $light-grey;
+	padding-bottom: 3px;
+}
 
 
 /* Assistive text */

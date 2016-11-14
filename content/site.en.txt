@@ -20,10 +20,9 @@ Footertitle: Endnotes
 
 Footer: 
 
--  (link: mailto:hello@bypine.co text: hello@bypine.co)
-- +1 270 304 7616
-- (link: /privacy-policy text: Privacy Policy)
-- © 2015 Pine, LLC
+- (email: hello@bypine.co text: E-mail)
+- (link: http://www.instagram.com/bypine text: Instagram)
+- (link: http://www.facebook.com/bypine text: Facebook)
 
 ----
 

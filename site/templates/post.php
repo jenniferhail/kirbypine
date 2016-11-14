@@ -3,7 +3,7 @@
 
   <main class="main blog" role="main">
 
-    <section class="content blogarticle">
+    <section class="content blogarticle text">
 
       <article>
         <h1><?= $post->title()->html() ?></h1>

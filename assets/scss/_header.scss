@@ -22,9 +22,9 @@ path {
 .logo path {
 	fill: #bbb;
 }
-.logo:hover path {
-	fill: $hover;
-}
+// .logo:hover path {
+// 	fill: $hover;
+// }
 
 @media screen and (min-width: 0px) and (max-width: 600px) {
 	header {

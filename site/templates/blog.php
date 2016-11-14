@@ -6,7 +6,7 @@
       <h1><?php echo date('Y') ?></h1>
 	</section>
 
-	<section>
+	<section class="text">
 		
 		<?php foreach($page->children()->filterBy('year', '2016')->visible()->flip() as $article): ?>
 			<h1><a href="<?php echo $article->url() ?>"><?php echo $article->title()->html() ?></a></h1>

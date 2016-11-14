@@ -1,31 +1,21 @@
 Name: <?php echo $fname ?> <?php echo $lname ?>
 
-Business Name: <?php echo $businessname ?>
-
-Business URL: <?php echo $businessurl ?>
-
-Telephone (Optional): <?php echo $telephone ?>
-
 Email: <?php echo $email ?>
 
-Timeline: <?php echo $timeline ?>
+Business Name: <?php echo $businessname ?>
 
-Project Details: <?php echo $message ?>
+Business Website: <?php echo $businessurl ?>
 
-Desired Services: 
-<?php echo $logo ?>
-<?php echo $collateral ?>
+Business Age: <?php echo $businessage ?>
+
+How they heard of Pine: <?php echo $referral ?>
+
+Services they're interested in: 
+<?php echo $branding ?>
 <?php echo $webdesign ?>
+<?php echo $collateral ?>
 <?php echo $webdev ?>
 <?php echo $artdirection ?>
-<?php echo $marketing ?>
+<?php echo $other ?>
 
-Coffee: <?php echo $coffee ?>
-
-
-Checklists: <?php echo $checklists ?>
-
-
-Ideal Day: <?php echo $idealday ?>
-
-
+Timeline: <?php echo $timeline ?>

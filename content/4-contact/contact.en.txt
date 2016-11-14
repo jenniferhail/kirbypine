@@ -2,9 +2,23 @@ Title: Contact
 
 ----
 
+Description: So, you want to work with me? Meet for coffee? Follow me on Instagram?
+
+----
+
 Text: 
 
 #Get in Touch
+
+Ready to reduce the stress of running your business by building a brand with depth?
+
+Please fill out the form below, or (email: hello@bypine.co text: write me an email) detailing your business vision and design needs. I promise to reply as soon as possible. If you want to say hello, please send an email to (email: hello@bypine.co text: hello@bypine.co), or check me out on (link: http://www.instagram.com/bypine text: Instagram).
+
+----
+
+Formdescription: 
+
+#How to Find Me
 
 (columns...)
 
@@ -25,20 +39,8 @@ Louisville, Kentucky
 
 ----
 
-Formdescription: 
-
-#Friends & Inquiries
-
-If you would like to work with us, please (email: hello@bypine.co text: write an email) detailing your business vision and design needs, and we'll reply as soon as possible. If you want to say hello, please send us an email at (email: hello@bypine.co text: hello@bypine.co), or check us out on (link: http://www.instagram.com/bypine text: Instagram).
-
-----
-
 Newsletterdescription: 
 
 #Join the Forest
 
 Follow along for updates and the latest news, always paperless.
-
-----
-
-Description: So, you want to work with us? Meet for coffee? Follow us on Instagram?

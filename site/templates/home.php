@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
 
-    <section>
+    <section class="text">
       <?php echo $page->text()->kirbytext() ?>
     </section>
 
@@ -11,7 +11,7 @@
       <?php snippet('projects') ?>
     </section>    
 
-    <section>
+    <section class="text">
       <?php echo $page->newsletterDescription()->kirbytext() ?>
       <?php snippet('newsletter') ?>
     </section>     

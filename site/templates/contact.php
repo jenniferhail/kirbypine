@@ -2,15 +2,17 @@
 
   <main class="main" role="main">
 
-
-
-    <section>
+    <section class="text">
       <?php echo $page->text()->kirbytext() ?>
     </section>
 
-    <section>
+    <section class="text">
       <?php echo $page->formDescription()->kirbytext() ?>
-    </section>    
+    </section>   
+
+    <section class="text">
+    	<?php snippet('form-questionnaire'); ?>
+    </section> 
 
   </main>
 
