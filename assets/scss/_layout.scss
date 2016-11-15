@@ -152,7 +152,10 @@ article {
 	.one-third-last, 
 	.two-thirds,
 	.one-half,
-	.project-images .one-half:nth-child(2n) {
+	.one-half-last,
+	.project-images .one-half:nth-child(2n),
+	.checkbox-columns,
+	.checkbox-columns:last-child {
 		@include span(12);
 	} 
 	/* Columns */
