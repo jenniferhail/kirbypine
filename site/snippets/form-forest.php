@@ -45,7 +45,7 @@
    </div>    
 
    <div class="field full">
-    <label<?php e($form->hasError('contribute'), ' class="erroneous"')?> for="contribute">What do you hope to contribute to our group?</label>
+    <label<?php e($form->hasError('contribute'), ' class="erroneous"')?> for="contribute">In what areas of business can you help other members?</label>
     <textarea type="text" id="contribute" name="contribute" required value="<?php $form->echoValue('contribute') ?>" placeholder="What do you hope to contribute to our group?"></textarea>
    </div>     
 
