@@ -56,9 +56,9 @@ Website Development
 
 Portraits:
 
-<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-1.jpg)</div>
+<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-1web.jpg)</div>
 
-<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-2.jpg)</div>
+<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-2web.jpg)</div>
 
 ----
 
