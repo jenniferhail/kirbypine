@@ -1,16 +1,12 @@
-Title: Year One
+Title: Reflecting on Year One
 
 ----
 
-Description: What I've learned from my first year running a graphic design studio.
+Date: 2016-08-22
 
 ----
 
-Date: 08/22/2016
-
-----
-
-Category: 
+Category: business
 
 ----
 
@@ -38,7 +34,7 @@ As a way to say thank you and to celebrate one year of business, *all new client
 
 ----
 
-Author: Jennifer
+Author: jennifer
 
 ----
 
