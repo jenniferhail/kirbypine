@@ -1,7 +1,6 @@
 $(document).ready(function(m){
   //Loading
-  $('.main').hide(0).delay(200).fadeIn(500);
-  $('#fixed-left-text').hide(0).delay(500).fadeIn(500);
+  //$('.main').hide(0).delay(200).fadeIn(500);
 
   $('#menubtn, .white-overlay').click(function(m) {
     m.preventDefault();
