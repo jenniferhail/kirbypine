@@ -16,6 +16,8 @@ Tags: Identity, Print Collateral
 
 Photos:
 
+(image: 3-forage-logo.jpg)
+
 (image: 4-forage-business-card.png)
 
 (image: 1-forage-postcard.jpg)
@@ -23,8 +25,6 @@ Photos:
 (image: 2-forage-postcard.jpg)
 
 (image: 5-forage-moodboard.png)
-
-(image: 3-forage-logo.jpg)
 
 ----
 

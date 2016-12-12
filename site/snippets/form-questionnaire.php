@@ -41,21 +41,18 @@
     <p>Which services are you interested in?</p>
     <div class="checkbox-columns">
       <input type="checkbox" name="branding" value="Branding"> Branding<br>
+    </div>
+    <div class="checkbox-columns">
       <input type="checkbox" name="webdesign" value="Website Design"> Website Design
     </div>
     <div class="checkbox-columns">
-      <input type="checkbox" name="collateral" value="Print Collateral"> Print Collateral<br>
-      <input type="checkbox" name="webdev" value="Website Development"> Website Development
-    </div>
-    <div class="checkbox-columns">
-      <input type="checkbox" name="artdirection" value="Art Direction"> Art Direction<br>
       <input type="checkbox" name="other" value="Other"> Other
     </div>
    </div>
 
    <div class="field full">
     <label<?php e($form->hasError('timeline'), ' class="erroneous"')?> for="timeline">When do you want to work together?</label>
-    <input type="text" id="timeline" name="timeline" required value="<?php $form->echoValue('timeline') ?>" placeholder="When do you want to work together?">
+    <input type="text" id="timeline" name="timeline" required value="<?php $form->echoValue('timeline') ?>" placeholder="When do you want to work together? I have three spots left for January 2017! Next opening in April.">
    </div> 
 
    <div class="clear"></div>

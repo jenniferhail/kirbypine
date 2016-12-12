@@ -1,0 +1,50 @@
+Title: Branding
+
+----
+
+Description: Learn more about us and what we do.
+
+----
+
+Text: 
+
+<section markdown="1">
+
+#Branding
+
+All of the details of your business communicate a message to the world. As your business grows, your message may become lost in the noise of keeping up with the work, serving your clients, and competing with other businesses in your industry.  
+
+You might find yourself attracting the wrong clients, worrying about your pricing, or lacking the confidence that your business is unique. You may feel unhappy with your branding because you know it's holding you back from achieving your goals (increasing your income, working less but with higher paying clients, or traveling more). 
+
+But that's where I can help!
+
+</section>
+
+<section markdown="1">
+
+#The branding package includes
+
+- **Discovery**: An adventure workbook and coffee dates to discover the heart of what you do.
+- **Strategy**: A pdf that outlines your goals, mission, target audience, how you stand out from your competition, keywords, and mood boards.
+- **Identity**: Primary and secondary logo designs, color palette, typography, master logo files, and brand book.
+- **Collateral**: Business card and stationery designs, social media applications, and print management.
+
+</section>
+
+<section markdown="1">
+
+#This package is for you if…
+
+- You know that your current branding is holding your business back from growth and more success.
+- You have built a solid business, but you want to work with more dream clients.
+- You want a brand identity that will feel like you and help you stand out from your saturated industry.
+- You're ready to invest in your business, dig deep, and find clarity with a unique brand.
+
+<br>
+<br>
+#$2,544
+
+<br>
+(link: /contact#workwithme text: Work with Me class: button)
+
+</section>

@@ -1,0 +1,52 @@
+Title: Services
+
+----
+
+Description: Learn more about us and what we do.
+
+----
+
+Text: 
+
+<section markdown="1">
+
+#Custom Website Design
+
+Running a business, serving your clients, keeping up with social media, and finding time to rest all leave you with little time to manage your website&mdash;one of the most important tools of your business.
+
+You might find yourself spending hours trying to figure out a problem, answering too many emails (because you haven't updated your website in forever), or wondering if you're losing clients because your website isn't clearly communicating your value. You may feel frustrated and overwhelmed with redesigning your website and fixing all of the problems.
+
+But that's where I can help!
+
+</section>
+
+<section markdown="1">
+
+#The website package includes
+
+- **Discovery**: A workbook and coffee dates to determine your goals and ideal user experience.
+- **Planning**: A sitemap that outlines your website content and flow of information to best achieve your goals.
+- **Content**: Art direction for your website photography and copywriting of four pages (usually the home, about, services, and contact pages).
+- **Design**: Mobile-responsive custom website design of all necessary pages. *(Development is additional)*
+- **Training**: A meeting to instruct you on using your new website. 
+
+</section>
+
+<section markdown="1">
+
+#This package is for you if...
+
+- The quality of your current online presence doesn't match up with the quality of your business.
+- You acknowledge that a strategic, cohesive website will help you book the clients you want to work with.
+- You're seeking a website that sets you apart from others in your industry.
+- You're ready to invest time into building a beautiful website that you love.
+
+<br>
+<br>
+#$1,728
+*Inquire for the pricing of websites with development.*
+
+<br>
+(link: /contact#workwithme text: Work with Me class: button)
+
+</section>

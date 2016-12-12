@@ -1,0 +1,45 @@
+Title: Website Design
+
+----
+
+Description: Learn more about us and what we do.
+
+----
+
+Text: 
+
+<section markdown="1">
+
+#Design with Clarity & Confidence
+
+Beautiful design can impact your business for the better. It can increase your income, eliminate the overwhelm, and free you from comparison. I would love to help you achieve all of this and more.
+
+I believe that designing for your business is more than just sending you pretty files—it's giving you the confidence to know how you stand out in your industry. It's the inevitable attraction of your ideal clients because our design decisions are based on research. And it's creating a brand that clearly communicates your value, so you can stop questioning your prices.
+
+</section>
+
+(image: Pine-Branding.png)
+
+<section markdown="1">
+<br>
+#Branding
+
+A full brand design, brand strategy, typography and color palette, three custom collateral items, and brand book.
+
+<br>
+(link: /services/branding text: Learn More class: button)
+
+</section>
+
+(image: Pine-Website-Design.png)
+
+<section markdown="1">
+<br>
+#Website Design
+
+A custom website designed for desktop and mobile, art direction & copywriting of content, and training on how to use your new site.
+
+<br>
+(link: /services/website-design text: Learn More class: button)
+
+</section>
