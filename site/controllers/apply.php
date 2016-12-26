@@ -12,7 +12,7 @@ return function($site, $pages, $page) {
             [
                 '_action' => 'email',
                 'to'      => 'hello@bypine.co',
-                'sender'  => 'jennifer.hail08@gmail.com',
+                'sender'  => 'admin@bypine.co',
                 'subject' => 'New Forest Member Application!'
             ]
         ]
