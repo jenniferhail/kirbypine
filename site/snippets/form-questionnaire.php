@@ -52,7 +52,7 @@
 
    <div class="field full">
     <label<?php e($form->hasError('timeline'), ' class="erroneous"')?> for="timeline">When do you want to work together?</label>
-    <input type="text" id="timeline" name="timeline" required value="<?php $form->echoValue('timeline') ?>" placeholder="When do you want to work together? I have three spots left for January 2017! Next opening in April.">
+    <input type="text" id="timeline" name="timeline" required value="<?php $form->echoValue('timeline') ?>" placeholder="When do you want to work together? I have spots available to start in April, July, and October 2017!">
    </div> 
 
    <div class="clear"></div>
