@@ -115,3 +115,23 @@ input#searchsubmit {
 	top: -9999px;
 	left: -9999px;
 }
+
+
+@media screen and (min-width: 0px) and (max-width: 600px) {
+	input[type=submit], 
+	button,
+	.button {
+		padding: 25px 25px;
+		width: 100%;
+		text-align: center;
+		display: block;
+		background-color: $darkgrey;
+		color: $bg;
+		border: none;
+		&:hover {
+			background-color: transparent;
+			border: $border;
+			color: $darkgrey;
+		}
+	}	
+}
