@@ -228,7 +228,7 @@ ul.instagram-feed {
 	.project {
 		margin: 0 0 1em 0 !important;
 		a {
-			position: relative;
+			position: absolute;
 			z-index: 1;
 			top: 0;
 			bottom: 0;
@@ -262,7 +262,14 @@ ul.instagram-feed {
 		@include suffix(0 of 12);
 	}	
 	.project-details,
-	.project-credits {
-		@include span(12);
+	.project-credits,
+	.project-text {
+  		float: none !important;
+  		width: 95%;
+  		margin-left: auto;
+  		margin-right: auto !important;
+		@include span(95%);
+		@include prefix(0 of 12);
+		@include suffix(0 of 12);
 	}	
 }
