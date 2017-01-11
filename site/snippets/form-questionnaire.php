@@ -37,7 +37,7 @@
     <input type="text" id="referral" name="referral" required value="<?php $form->echoValue('referral') ?>" placeholder="How did you hear about Pine?">
    </div> 
 
-   <div class="services field full">
+   <div class="pine-services field full">
     <p>Which services are you interested in?</p>
     <div class="checkbox-columns">
       <input type="checkbox" name="branding" value="Branding"> Branding<br>
