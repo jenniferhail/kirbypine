@@ -1,7 +1,0 @@
-Title: Blog
-
-----
-
-Description: A collection of writing on design, adventures, and our favorite things.
-
-----

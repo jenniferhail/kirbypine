@@ -129,7 +129,7 @@ c::set('routes', array(
     'pattern' => '(:num)/(:num)/(:num)/(:any)',
     'action'  => function($year, $month, $day, $uid) {
 
-      $page = page('posts/' . $uid);
+      $page = page('blog/' . $uid);
       if(!$page){
         $page = site()->errorPage();
       } else {

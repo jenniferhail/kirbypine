@@ -1,13 +1,18 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Post
-pages:false
+title: Default Post
+pages: false
 files:
-  sortable:true
+  sortable: true
+options:
+  template: true
 fields:
   title:
     label: Title
     type:  text
+  description:
+    label: Description
+    type: text
   date:
     label: Date
     type: date
@@ -27,11 +32,11 @@ fields:
     type: select
     width: 1/2
     options:
-      design: Design
-      business: Business
-      inspiration: Inspiration
-      travel: Travel
-      adventure: Adventure
+      Design: Design
+      Studio: Studio
+      Business: Business
+      Clarity: Clarity
+      Travel: Travel
   tags:
     label: Tags
     type: tags

@@ -2,11 +2,11 @@ Title: A Summer in Vancouver
 
 ----
 
-Date: 08/06/2016
+Date: 2017-01-14
 
 ----
 
-Category: travel
+Category: Travel
 
 ----
 
@@ -20,9 +20,9 @@ Réqùë èxplïcàrï duô ne, cûm pôsse scaévola în. Latiné tîbïqûé v
 
 <div class="blogimages group-one">
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-7.jpg class: forty left landscape)
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-7.jpg)
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-2.jpg class: zero right landscape)
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-2.jpg)
 
 </div>
 
@@ -34,19 +34,17 @@ Vix quaequé nominavi referrentùr et. Ex vîdît rëprîmîque quo, tântas gra
 
 <div class="blogimages group-two">
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-3.jpg class: forty right landscape)
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-3.jpg)
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-11.jpg class: zero left landscape)
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-11.jpg)
 
 </div>
 
 <div class="blogimages group-three">
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-9.jpg class: zero right landscape)
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-9.jpg)
 
-(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-1.jpg class: sixteen left portrait)
-
-
+(image: Pine-Vancouver-Louisville-Kentucky-Graphic-Design-1.jpg)
 
 </div>
 
@@ -61,3 +59,7 @@ Coverimage:
 ----
 
 Tags: 
+
+----
+
+Description: A Summer in Vancouver

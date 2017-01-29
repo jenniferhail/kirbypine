@@ -1,6 +1,11 @@
+<?php if(!defined('KIRBY')) exit ?>
+
 title: Blog
 pages:
-  template: blogpost
+	template: 
+		- article-default
+		- article-wide
+		- article-video
 files: false
 fields:
   title:

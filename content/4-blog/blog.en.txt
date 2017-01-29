@@ -1,0 +1,9 @@
+Title: Blog
+
+----
+
+Description: A collection of writing on design, business, and clarity.
+
+----
+
+Noposts: 

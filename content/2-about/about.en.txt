@@ -2,7 +2,7 @@ Title: About
 
 ----
 
-Description: Learn more about us and what we do.
+Description: Learn more about Pine.
 
 ----
 
@@ -28,46 +28,13 @@ I am here to listen to your heart, to invest in your success, and to help you cr
 
 I work with you&mdash;makers, photographers, coffee shop owners, creatives&mdash;to elevate your business positioning through thoughtful design and art direction. When each design decision is carefully considered, we ensure that your goals are being achieved.
 
-If you're ready to invest in branding for your business, (link: /contact text: I would love to hear from you). 
-
-<div class="one-half" markdown="1">
-
-**Branding**
-- Adventure Workbook
-- Research & Brainstorming
-- Brand Strategy
-- Wordmark
-- Logomark
-- Identity Concept
-- Typography & Color Treatment
-- Business Cards
-- Letterhead
-- Master Logo Files
-- Brand Guidebook
-
-</div>
-
-<div class="one-half-last" markdown="1">
-
-**Website Design**
-- Website Workbook
-- Research & Brainstorming
-- Structure & Sitemap
-- WordPress, Shopify, or Squarespace Design
-- Photo Art Direction
-- Copywriting
-- Search Engine Optimization
-- Web Development & Testing
-- Website Instructions
-- Website Launch
-
-</div>
+If you're ready to invest in branding for your business, (link: /services text: review my services ) and then (link: /contact text: get in touch)! 
 
 </section>
 
 ----
 
-Portraits:
+Portraits: 
 
 <div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-1web.jpg)</div>
 
@@ -75,9 +42,7 @@ Portraits:
 
 ----
 
-Aboutme:  
-
-<section markdown="1">
+Aboutme: 
 
 #Founder & Designer, Jennifer Hail
 
@@ -86,5 +51,3 @@ Pine begain in the fall of 2015 by Jennifer Hail, located in Louisville, Kentuck
 Jennifer is a graphic designer who works to create minimal, beautiful solutions for passionate creatives and makers. Her focus is to create a breath of fresh air in a world filled with clutter, through a simplified process that eliminates the overwhelm. Jennifer's knowledge of front-end web development and natural inclination to film photography allows her to offer a holistic approach to the needs of her clients.
 
 She is inspired by slow living and purposeful past times, often dabbling in a selection of hobbies including calligraphy, coffee-making, and curating. Jennifer believes that less is always more, and encourages everyone to never stop learning. When she isn't on the computer designing or reading articles, you can find her entertaining her fluffy, white cat Theodore and spending time with her fiancé and family.
-
-</section>

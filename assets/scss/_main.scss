@@ -147,61 +147,6 @@
 	@include suffix(2 of 12);
 }
 
-/* Blog */
-article {
-	&:hover time {
-		display: block;
-	}
-}
-.blog-post {
-	margin-bottom: 6em;
-	border-bottom: 1px solid $light-grey;
-	padding-bottom: 3em
-}
-.readmore,
-.back {
-	text-align: right;
-	display: block;
-	clear: both;
-}
-.blogarticle {
-	.blogimages {
-		position: relative;
-		@include clearfix();
-	}
-	div {
-		margin-bottom: 6em;
-	}
-	p {
-		clear: both;
-	}
-	figure {
-		z-index: 1;
-		&.right {
-			float: right;
-		}
-		&.left {
-			float: left;
-		}
-		&:hover {
-			z-index: 100;
-		}
-	}
-	.zero {
-		margin-top: 0;
-		position: relative;
-	}
-	.sixteen {
-		margin-top: 16%;
-		position: absolute;
-	}
-	.forty {
-		margin-top: 40%;
-		position: absolute;
-	}
-}
-
-
 /* Other */
 ul.instagram-feed {
 	list-style: none;
