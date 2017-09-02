@@ -36,17 +36,17 @@ If you're ready to invest in branding for your business, (link: /services text: 
 
 Portraits: 
 
-<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-1web.jpg)</div>
+<div class="portrait" markdown="1">(image: Pine-JenniferGividen-Square-1web.jpg)</div>
 
-<div class="portrait" markdown="1">(image: Pine-JenniferHail-Square-2web.jpg)</div>
+<div class="portrait" markdown="1">(image: Pine-JenniferGividen-Square-2web.jpg)</div>
 
 ----
 
 Aboutme: 
 
-#Founder & Designer, Jennifer Hail
+#Founder & Designer, Jennifer Gividen
 
-Pine begain in the fall of 2015 by Jennifer Hail, located in Louisville, Kentucky.
+Pine begain in the fall of 2015 by Jennifer Gividen, located in Louisville, Kentucky.
 
 Jennifer is a graphic designer who works to create minimal, beautiful solutions for passionate creatives and makers. Her focus is to create a breath of fresh air in a world filled with clutter, through a simplified process that eliminates the overwhelm. Jennifer's knowledge of front-end web development and natural inclination to film photography allows her to offer a holistic approach to the needs of her clients.
 

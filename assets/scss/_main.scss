@@ -111,11 +111,11 @@
 		left: 0;
 		text-align: center;
 		color: $bg;
-		background-color: rgba(27,27,27,0.8);
+		background-color: rgba(27,27,27,0.6);
 		opacity: 0;
-		-webkit-transition: opacity 0.5s linear;
-		-moz-transition: opacity 0.5s linear;
-		transition: opacity 0.5s linear;
+		-webkit-transition: opacity 0.2s linear;
+		-moz-transition: opacity 0.2s linear;
+		transition: opacity 0.2s linear;
 		p {
 			font-size: 22px;
 			display: block;

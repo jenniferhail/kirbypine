@@ -1,0 +1,19 @@
+Title: Chandler Rose Photography
+
+----
+
+Description: Client Portal
+
+----
+
+Text: 
+
+<section markdown="1">
+
+(image: ChandlerRose.jpg)
+
+**Master Logo Files**: (link:/clients/chandlerrose/ChandlerRosePhotography-MasterLogos.zip text: Download Here)
+
+</section>
+
+----

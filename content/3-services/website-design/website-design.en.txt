@@ -27,7 +27,8 @@ But that's where I can help!
 - **Discovery**: A workbook and coffee dates to determine your goals and ideal user experience.
 - **Planning**: A sitemap that outlines your website content and flow of information to best achieve your goals.
 - **Content**: Art direction for your website photography and copywriting of four pages (usually the home, about, services, and contact pages).
-- **Design**: Mobile-responsive custom website design of all necessary pages. *(Development is additional)*
+- **Design**: Custom design of all necessary pages, for desktop and mobile.
+- **Development**: Coding for WordPress and Shopify, quoted per project.
 - **Training**: A meeting to instruct you on using your new website. 
 
 </section>
@@ -43,8 +44,8 @@ But that's where I can help!
 
 <br>
 <br>
-#$2,016
-*Inquire for the pricing of websites with development.*
+#Starting at $2,436
+*Website development is quoted per project, but starts at $2,500.*
 
 <br>
 (link: /contact#workwithme text: Work with Me class: button)
