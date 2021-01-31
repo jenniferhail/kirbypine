@@ -12,17 +12,17 @@ Portraits:
 
 <div class="portrait" markdown="1">(image: Studio-Pine-Desk-View-Wishbone-Chair-Freshly-Brewed-Coffee.jpg)</div>
 
-<div class="portrait" markdown="1">(image: Studio-Pine-Jennifer-Gividen.jpg)</div>
+<div class="portrait" markdown="1">(image: Studio-Pine-Jennifer-Hail.jpg)</div>
 
 ----
 
 Aboutme: 
 
-#Jennifer Gividen
+#Jennifer Hail
 
 Jennifer's practice is rooted in the principles of minimalism. With a background in psychology and fine art, she strives to question every detail and eliminate excess to reveal the most effective solution. 
 
-Jennifer is a designer, art director, and front end developer at Pine.
+Jennifer is a designer, art director, and web developer at Pine.
 
 ----
 
