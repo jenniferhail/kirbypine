@@ -14,7 +14,7 @@ form label {
 		font-size: 14px;
 		line-height: 26px;
 		font-weight: 300;
-		letter-spacing: 0.25px;	
+		letter-spacing: 0.25px;
 	}
 	input[type="checkbox"] {
 		margin-bottom: 1em;
@@ -39,9 +39,12 @@ form label {
     color: #6B0505!important;
     font-style: italic!important;
 }
+.mc-field-group {
+	margin-top: 2em;
+}
 
 /* See _mixins.scss for more on this method for handling HTML5 elements */
-#{$all-text-inputs}, 
+#{$all-text-inputs},
 textarea {
 	width: 100%;
 	border-bottom: $border;
@@ -99,7 +102,7 @@ select {
 // Customize Chrome autofill background (yellow by default)
 // input:-webkit-autofill,
 // input:-webkit-autofill:focus {
-//     -webkit-box-shadow:0 0 0 50px #6d6e6e inset; 
+//     -webkit-box-shadow:0 0 0 50px #6d6e6e inset;
 //     -webkit-text-fill-color: white;
 // }
 
@@ -118,7 +121,7 @@ input#searchsubmit {
 
 
 @media screen and (min-width: 0px) and (max-width: 600px) {
-	input[type=submit], 
+	input[type=submit],
 	button,
 	.button {
 		padding: 25px 25px;
@@ -133,5 +136,5 @@ input#searchsubmit {
 			border: $border;
 			color: $darkgrey;
 		}
-	}	
+	}
 }

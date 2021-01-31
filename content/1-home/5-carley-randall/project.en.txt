@@ -16,19 +16,13 @@ Tags: Branding, Squarespace Website
 
 Photos:
 
-(image: carley-randall-1.jpg class: one-half)
-
-(image: carley-randall-2.jpg class: one-half last)
-
 (image: carley-randall-logo.jpg)
 
-(image: carley-randall-3.jpg class: one-half)
-
-(image: carley-randall-4.jpg class: one-half)
+(image: 2-carleyrandall-businesscards.jpg)
 
 ----
 
-Text: 
+Text:
 
 #Building a lifestyle brand to start her dream business as a hair and makeup artist.
 
@@ -40,4 +34,5 @@ The logo is just the start of establishing her lifestyle brand for women who see
 
 ----
 
-Credits: (link: http://www.austingros.com text: Austin Gros) — photography
+Credits: 
+

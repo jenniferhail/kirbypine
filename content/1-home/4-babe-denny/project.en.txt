@@ -1,0 +1,30 @@
+Title: Babe Denny
+
+----
+
+Description: A logo for an Indianapolis-based photographer.
+
+----
+
+Year: 2017
+
+----
+
+Tags: Branding
+
+----
+
+Photos:
+
+(image: 2-BabeDenny.jpg)
+
+(image: 1-BabeDenny.jpg)
+
+----
+
+Text:
+
+
+----
+
+Credits: 

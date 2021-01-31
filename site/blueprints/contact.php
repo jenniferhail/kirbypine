@@ -9,13 +9,13 @@ fields:
     type:  text
   description:
     label: Page Description
-    type:  text 
+    type:  text
   text:
     label: Text
     type:  textarea
   formDescription:
     label: Form
     type: textarea
-  newsletterDescription:
-    label: Newsletter
-    type: textarea   
+  Contactformdescription:
+    label: Contact Form
+    type: textarea

@@ -2,15 +2,15 @@ Title: Thank You
 
 ----
 
-Description: We will reply to your message very soon!
+Description: Thanks for your interest in Pine!
 
 ----
 
-Text: 
+Text:
 
 #Thank You
 
 
-Hi! Thank you so much for your interest in working with me. I can't wait to hear more about your business and your design needs. I will reply to your message shortly. 
+Hi! Thank you so much for your interest in working with Pine. I can't wait to hear more about your business and your design needs.
 
-Until then, please say hello on (link: http://www.instagram.com/bypine text: Instagram). I would love to see what you're up to. If you're interested in joining The Forest, our community for creative entrepreneurs, you can read more about that (link: /the-forest text: here).
+In the meantime, please say hello on (link: http://www.instagram.com/bypine text: Instagram)!

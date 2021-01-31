@@ -6,26 +6,34 @@ Description: A design studio for authentic businesses. Branding, art direction, 
 
 ----
 
-Text: 
+Text:
 
-#Design for the Everlasting
-
-Do you want to reduce the stress of running your business? Do you want to build a brand with depth and clarity? 
-
-Forget the overwhelm and the doubt; instead find confidence by clearly communicating the story that your people long to hear. We believe that choosing design with clarity will make your business vision a reality&mdash;and one that lasts. With a deeply-rooted foundation and well-researched design, your business will grow.
-
-Working with Pine to brand your business is like walking through a century old forest and taking in a deep breath of fresh air. Grab a hot cup of coffee and scroll down to learn more about the brands and businesses I have worked with.
+#Pine is an independent design studio focused on finding clarity through print and digital mediums. We offer a holistic approach, beginning with research and ending in high-quality solutions for thoughtful individuals and businesses.
 
 ----
 
-Portfolio: 
+Portfolio:
 
 #Brands & Websites with Clarity
 
 ----
 
-Newsletterdescription: 
+Newsletterdescription:
 
-#Join the Forest
+#Receive Our Letters
 
-Sign up to receive our always-paperless newsletter. It's written for creative business owners who value living and working with intention, so we can spend more time doing the things we love with our family and friends.
+Sign up to receive our thoughtfully-penned newsletter. It's written for individuals who value living and working with intention, so you can spend more time doing the things you love.
+
+----
+
+Leftovers:
+
+#A design studio for the everlasting, creating brands and websites that are built to last.
+
+That means we create brands and websites that are built to last, founded on strategy and research.
+
+Do you want to reduce the stress of running your business? Do you want to build a brand with depth and clarity?
+
+Forget the overwhelm and the doubt; instead find confidence by clearly communicating the story that your people long to hear. We believe that choosing design with clarity will make your business vision a reality&mdash;and one that lasts. With a deeply-rooted foundation and well-researched design, your business will grow.
+
+Working with Pine to brand your business is like walking through a century old forest and taking in a deep breath of fresh air. Grab a hot cup of coffee and scroll down to learn more about the brands and businesses I have worked with.

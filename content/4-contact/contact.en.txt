@@ -10,7 +10,7 @@ Text:
 
 #Get in Touch
 
-Are you ready to build an everlasting brand with depth? 
+Are you ready to build an everlasting brand with depth?
 
 Please fill out the form below, or (email: hello@bypine.co text: write me an email) detailing your business vision and design needs. I promise to reply as soon as possible. If you want to say hello, please send an email to (email: hello@bypine.co text: hello@bypine.co), or check me out on (link: http://www.instagram.com/bypine text: Instagram).
 
@@ -39,8 +39,4 @@ Louisville, Kentucky
 
 ----
 
-Newsletterdescription: 
-
-#Join the Forest
-
-Follow along for updates and the latest news, always paperless.
+Contactformdescription: #Let's Work Together

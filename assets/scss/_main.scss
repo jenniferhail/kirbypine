@@ -1,19 +1,5 @@
 /* Home + Portfolio */
 
-.portfolio-ctn {
-	margin-top: 5.5em; 
-	h1 {
-		display: none;
-		font-size: 2em;
-		z-index: 5;
-		left: -4%;
-		top: 7em;
-		position: relative;
-		-webkit-transform: rotate(-90deg);
-		-moz-transform: rotate(-90deg);
-		transform: rotate(-90deg);
-	}
-}
 .portfolio, .portraits {
 	// min-height: 1200px;
 	@include clearfix();
@@ -34,17 +20,17 @@
 }
 .project {
 	// position: absolute;
-	margin-bottom: 3em;
+	margin-bottom: 8em;
 	height: auto;
 	letter-spacing: 0.4px;
-	a {
-		position: absolute;
-		z-index: 1;
-		top: 0;
-		bottom: 0;
-		left: 0;
-		right: 0;
-	}
+	// a {
+	// 	position: absolute;
+	// 	z-index: 1;
+	// 	top: 0;
+	// 	bottom: 0;
+	// 	left: 0;
+	// 	right: 0;
+	// }
 	&:first-child {
 		// right: 0;
 		// top: 0;
@@ -54,6 +40,7 @@
 		@include span(4 of 12);
 		@include gutters(11% before);
 		margin-top: 5em;
+		margin-bottom: 0;
 	}
 	&:nth-child(2n) {
 		// left: 0;
@@ -68,11 +55,12 @@
 		// top: 24%;
 		// z-index: 4;
 		// width: $portrait;
-		margin: 6em auto 10em;
+		// margin: 6em auto 10em;
 		// @include prefix(1 of 12);
-		@include span(6 last);
+		@include span(4 of 12);
+		margin-top: 8em;
 		// @include gutters(26em);
-		@include gutters(10%);
+		// @include gutters(10%);
 		@include gutters(10% before);
 		// @include suffix(4 of 12);
 	}
@@ -81,20 +69,26 @@
 		// top: 48%;
 		// z-index: 4;
 		// width: $portrait;
-		@include span(4 of 12);
-		@include gutters(11% before);
+		@include span(4 of 12 last);
+		@include gutters(11%);
+	}
+	&:nth-child(5n) {
+		// right: 0;
+		// top: 48%;
+		// z-index: 4;
+		// width: $portrait;
+		@include span(4 of 12 last);
+		@include gutters(11%);
 	}
 	&:last-child {
 		// left: 0;
 		// top: 84%;
 		// z-index: 2;
 		// width: $portrait;
-		margin-top: 5em;
-		@include span(4 of 12 last);
+		// margin-top: 5em;
+		margin-top: 0;
+		@include span(4 of 12);
 		@include gutters(11%);
-	}
-	&:hover .caption {
-		opacity: 1;
 	}
 	img {
 		opacity: 1;
@@ -102,28 +96,52 @@
 		-webkit-transition: opacity 0.25s linear;
 		-moz-transition: opacity 0.25s linear;
 		transition: opacity 0.25s linear;
+		&:hover {
+			opacity: 0.8;
+		}
 	}
 	.caption {
 		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		left: 0;
-		text-align: center;
-		color: $bg;
-		background-color: rgba(27,27,27,0.6);
-		opacity: 0;
+		bottom: 228px;
+		left: -195px;
+		width: 300px;
+		height: 50px;
+		text-align: left;
+		transform: rotate(-90deg);
+		color: $text;
 		-webkit-transition: opacity 0.2s linear;
 		-moz-transition: opacity 0.2s linear;
 		transition: opacity 0.2s linear;
-		p {
-			font-size: 22px;
+
+		font-size: .7em;
+		letter-spacing: 3.5px;
+		font-family: "Open Sans", sans-serif;
+		font-weight: 400;
+		text-transform: uppercase
+	}
+	.projectTitle {
+		padding-top: 3em;
+		h1 {
+			font-size: 30px;
 			display: block;
 			position: relative;
-			top: 50%;
-			transform: perspective(1px) translateY(-50%);
+			text-align: left;
+			z-index: 5;
+			margin-bottom: 0.25em;
+			position: relative;
+			// left: -4%;
+			// top: 7em;
+			// -webkit-transform: rotate(-90deg);
+			// -moz-transform: rotate(-90deg);
+			// transform: rotate(-90deg);
+			// top: 50%;
+			// transform: perspective(1px) translateY(-50%);
 		}
 	}
+}
+
+.portfolio-ctn {
+	// margin-top: 5.5em;
 }
 
 /* Projects */
@@ -132,7 +150,7 @@
 	@include prefix(2 of 12);
 	@include span(4 of 12);
 }
-.project-text {
+.project-images {
 	@include span(8 of 12 last);
 	@include suffix(2 of 12);
 }
@@ -141,7 +159,7 @@
 	@include span(4 of 4 last);
 	@include suffix(2 of 12);
 }
-.project-images {
+.project-text {
 	@include prefix(4 of 12);
 	@include span(4 of 4 last);
 	@include suffix(2 of 12);
@@ -196,16 +214,20 @@ ul.instagram-feed {
 			@include span(12 last);
 			@include gutters(0);
 		}
+		&:nth-child(5n) {
+			@include span(12 last);
+			@include gutters(0);
+		}
 		&:last-child {
 			@include span(12 last);
 			@include gutters(0);
-		}								
+		}
 	}
 	.project-images {
 		@include prefix(0 of 12);
 		@include span(4 of 4 last);
 		@include suffix(0 of 12);
-	}	
+	}
 	.project-details,
 	.project-credits,
 	.project-text {

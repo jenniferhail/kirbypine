@@ -46,9 +46,13 @@ section.banner {
 }
 section {
 	@include span(4 of 4);
-	&.text {
-		@include prefix(4 of 12);
-		@include suffix(2 of 12);
+	// &.text {
+	// 	@include prefix(4 of 12);
+	// 	@include suffix(2 of 12);
+	// }
+	&.intro, &.text {
+		@include prefix(1 of 12);
+		@include suffix(5 of 12);
 	}
 }
 article, section {

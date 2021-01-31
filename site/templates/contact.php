@@ -8,11 +8,12 @@
 
     <section class="text">
       <?php echo $page->formDescription()->kirbytext() ?>
-    </section>   
+    </section>
 
     <section id="workwithme" class="text">
-    	<?php snippet('form-dubsado'); ?>
-    </section> 
+      <?php echo $page->ContactFormDescription()->kirbytext() ?>
+    	<?php snippet('form-inquiry') ?>
+    </section>
 
   </main>
 

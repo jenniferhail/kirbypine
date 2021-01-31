@@ -2,7 +2,7 @@ Title: Services
 
 ----
 
-Description: Work with Pine to design your brand and website.
+Description: Work with Studio Pine to design your brand and website.
 
 ----
 
@@ -12,34 +12,32 @@ Text:
 
 #Design with Clarity & Confidence
 
-Beautiful design can impact your business for the better. It can increase your income, eliminate the overwhelm, and free you from comparison. I would love to help you achieve all of this and more.
+Beautiful design can impact your business for the better. It can increase your income, eliminate the overwhelm, and free you from comparison. We would love to help you achieve all of this and more.
 
-I believe that designing for your business is more than just sending you pretty files—it's giving you the confidence to know how you stand out in your industry. It's the inevitable attraction of your ideal clients because our design decisions are based on research. And it's creating a brand that clearly communicates your value, so you can stop questioning your prices.
+We believe that designing for your business is more than just sending you pretty files—it's giving you the confidence to know how you stand out in your industry. It's the inevitable attraction of your ideal clients because our design decisions are based on research. And it's creating a brand that clearly communicates your value, so you can stop questioning your prices.
 
-</section>
-
-(image: Pine-Branding.png)
-
-<section markdown="1">
-<br>
-#Branding
-
-A full brand design, brand strategy, typography and color palette, three custom collateral items, and brand book.
-
-<br>
-(link: /services/branding text: Learn More class: button)
+If working with us sounds like a great fit for you, please (link: /contact text: get in touch).
 
 </section>
 
-(image: Pine-Website-Design.png)
-
 <section markdown="1">
 <br>
-#Website Design
+#Services
 
-A custom website designed for desktop and mobile, art direction & copywriting of content, and training on how to use your new site.
+– Branding & Identity
+– Logo design
+– Collateral design
+– Art direction
+– Photography
+– Print
+– Packaging design
+– Digital
+– Website design
+– Website development 
+– E-commerce
+
 
 <br>
-(link: /services/website-design text: Learn More class: button)
+(link: /contact text: Let's Work Together class: button)
 
 </section>
